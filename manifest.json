@@ -1,0 +1,210 @@
+{
+  "author": "Ladislav Klíma",
+  "contenttype": "prose",
+  "edition": "beletrie",
+  "identifier": "klima-utrpeni-knizete-sternenhocha-99d056e",
+  "languagecode": "cs",
+  "modified": "2021-10-21T00:00:00.000Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Utrpení knížete Sternenhocha",
+  "revision": "99d056e",
+  "generatedAt": {
+    "date": "Wed Mar 30 2022 06:59:53 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1648623593407
+  },
+  "documents": [
+    {
+      "title": "Utrpení knížete Sternenhocha",
+      "file": "utrpeni_knizete_sternenhocha_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "utrpeni_knizete_sternenhocha_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Utrpení knížete Sternenhocha",
+      "file": "utrpeni_knizete_sternenhocha_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "utrpeni_knizete_sternenhocha_001.html",
+      "next": "utrpeni_knizete_sternenhocha_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Utrpení knížete Sternenhocha",
+      "file": "utrpeni_knizete_sternenhocha_003.html",
+      "words": 7,
+      "chars": 59,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 2,
+      "prev": "utrpeni_knizete_sternenhocha_002.html",
+      "next": "utrpeni_knizete_sternenhocha_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Utrpení knížete Sternenhocha",
+      "file": "utrpeni_knizete_sternenhocha_004.html",
+      "words": 82,
+      "chars": 562,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 3,
+      "prev": "utrpeni_knizete_sternenhocha_003.html",
+      "next": "utrpeni_knizete_sternenhocha_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Předmluva • Utrpení knížete Sternenhocha",
+      "file": "utrpeni_knizete_sternenhocha_005.html",
+      "words": 271,
+      "chars": 1708,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 4,
+      "prev": "utrpeni_knizete_sternenhocha_004.html",
+      "next": "utrpeni_knizete_sternenhocha_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Předmluva",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "I. • Utrpení knížete Sternenhocha",
+      "file": "utrpeni_knizete_sternenhocha_006.html",
+      "words": 10560,
+      "chars": 61593,
+      "ideas": 185,
+      "role": "chapter",
+      "order": 5,
+      "prev": "utrpeni_knizete_sternenhocha_005.html",
+      "next": "utrpeni_knizete_sternenhocha_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "I.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "II. • Utrpení knížete Sternenhocha",
+      "file": "utrpeni_knizete_sternenhocha_007.html",
+      "words": 30448,
+      "chars": 176237,
+      "ideas": 757,
+      "role": "chapter",
+      "order": 6,
+      "prev": "utrpeni_knizete_sternenhocha_006.html",
+      "next": "utrpeni_knizete_sternenhocha_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "II.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "III. • Utrpení knížete Sternenhocha",
+      "file": "utrpeni_knizete_sternenhocha_008.html",
+      "words": 2490,
+      "chars": 14425,
+      "ideas": 78,
+      "role": "chapter",
+      "order": 7,
+      "prev": "utrpeni_knizete_sternenhocha_007.html",
+      "next": "utrpeni_knizete_sternenhocha_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "III.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Utrpení knížete Sternenhocha",
+      "file": "utrpeni_knizete_sternenhocha_009.html",
+      "words": 46,
+      "chars": 333,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 8,
+      "prev": "utrpeni_knizete_sternenhocha_008.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 43912,
+      "chars": 254975,
+      "ideas": 1053
+    },
+    "chapters": {
+      "words": 43904,
+      "chars": 254917,
+      "ideas": 1048
+    }
+  }
+}
