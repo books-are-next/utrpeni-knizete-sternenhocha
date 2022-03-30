@@ -1,8 +1,7 @@
 ---
+title: Předmluva
 contentType: prose
 ---
-
-Předmluva
 
   
 

@@ -1,8 +1,7 @@
 ---
+title: I.
 contentType: prose
 ---
-
-I.
 
   
 
@@ -100,7 +99,7 @@ Odpověděl jsem na dopis starochův, velmi pokorný, došlý mne hned následuj
 
 Za měsíc byla mou chotí.
 
-\* \* \*
+* * *
 
   
 
@@ -164,7 +163,7 @@ Následujícího dne hned zrána odebral jsem se na onen pahorek. Uprostřed nev
 
 Byl jsem rozhodnut, že ze svého úkrytu oba zastřelím; cítil jsem sice, že k tomu nenajdu odvahu, ale má vášeň nevěnovala tomuto pocitu sluchu.
 
-\* \* \*
+* * *
 
   
 
