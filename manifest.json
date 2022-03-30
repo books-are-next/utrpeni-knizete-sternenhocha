@@ -2,38 +2,18 @@
   "author": "Ladislav Klíma",
   "contenttype": "prose",
   "edition": "beletrie",
-  "identifier": "klima-utrpeni-knizete-sternenhocha-99d056e",
+  "identifier": "klima-utrpeni-knizete-sternenhocha-92a9db8",
   "languagecode": "cs",
   "modified": "2021-10-21T00:00:00.000Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Utrpení knížete Sternenhocha",
-  "revision": "99d056e",
+  "revision": "92a9db8",
   "generatedAt": {
-    "date": "Wed Mar 30 2022 06:59:53 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1648623593407
+    "date": "Wed Mar 30 2022 07:04:24 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1648623864397
   },
   "documents": [
-    {
-      "title": "Utrpení knížete Sternenhocha",
-      "file": "utrpeni_knizete_sternenhocha_001.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 0,
-      "prev": null,
-      "next": "utrpeni_knizete_sternenhocha_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
     {
       "title": "Utrpení knížete Sternenhocha",
       "file": "utrpeni_knizete_sternenhocha_002.html",
@@ -41,48 +21,8 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 1,
-      "prev": "utrpeni_knizete_sternenhocha_001.html",
-      "next": "utrpeni_knizete_sternenhocha_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Utrpení knížete Sternenhocha",
-      "file": "utrpeni_knizete_sternenhocha_003.html",
-      "words": 7,
-      "chars": 59,
-      "ideas": 4,
-      "role": "chapter",
-      "order": 2,
-      "prev": "utrpeni_knizete_sternenhocha_002.html",
-      "next": "utrpeni_knizete_sternenhocha_004.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Utrpení knížete Sternenhocha",
-      "file": "utrpeni_knizete_sternenhocha_004.html",
-      "words": 82,
-      "chars": 562,
-      "ideas": 7,
-      "role": "chapter",
-      "order": 3,
-      "prev": "utrpeni_knizete_sternenhocha_003.html",
+      "order": 0,
+      "prev": null,
       "next": "utrpeni_knizete_sternenhocha_005.html",
       "toc": [
         {
@@ -101,8 +41,8 @@
       "chars": 1708,
       "ideas": 5,
       "role": "chapter",
-      "order": 4,
-      "prev": "utrpeni_knizete_sternenhocha_004.html",
+      "order": 1,
+      "prev": "utrpeni_knizete_sternenhocha_002.html",
       "next": "utrpeni_knizete_sternenhocha_006.html",
       "toc": [
         {
@@ -121,7 +61,7 @@
       "chars": 61593,
       "ideas": 185,
       "role": "chapter",
-      "order": 5,
+      "order": 2,
       "prev": "utrpeni_knizete_sternenhocha_005.html",
       "next": "utrpeni_knizete_sternenhocha_007.html",
       "toc": [
@@ -141,7 +81,7 @@
       "chars": 176237,
       "ideas": 757,
       "role": "chapter",
-      "order": 6,
+      "order": 3,
       "prev": "utrpeni_knizete_sternenhocha_006.html",
       "next": "utrpeni_knizete_sternenhocha_008.html",
       "toc": [
@@ -161,9 +101,9 @@
       "chars": 14425,
       "ideas": 78,
       "role": "chapter",
-      "order": 7,
+      "order": 4,
       "prev": "utrpeni_knizete_sternenhocha_007.html",
-      "next": "utrpeni_knizete_sternenhocha_009.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
@@ -175,20 +115,20 @@
       ]
     },
     {
-      "title": "Utrpení knížete Sternenhocha",
-      "file": "utrpeni_knizete_sternenhocha_009.html",
-      "words": 46,
-      "chars": 333,
-      "ideas": 12,
-      "role": "chapter",
-      "order": 8,
+      "title": "Tiráž • Utrpení knížete Sternenhocha",
+      "file": "colophon.html",
+      "words": 136,
+      "chars": 959,
+      "ideas": 24,
+      "role": "colophon",
+      "order": null,
       "prev": "utrpeni_knizete_sternenhocha_008.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tiráž",
           "id": null,
           "children": []
         }
@@ -202,9 +142,9 @@
       "ideas": 1053
     },
     "chapters": {
-      "words": 43904,
-      "chars": 254917,
-      "ideas": 1048
+      "words": 43769,
+      "chars": 253963,
+      "ideas": 1025
     }
   }
 }
