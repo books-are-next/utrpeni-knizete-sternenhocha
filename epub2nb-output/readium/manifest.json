@@ -1,0 +1,103 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Utrpení knížete Sternenhocha",
+    "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+    "author": "Ladislav Klíma",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2021-10-21T00:00:00.000Z",
+    "published": "2021-10-21T08:59:44.000Z",
+    "description": "Městská knihovna v Praze",
+    "subject": "subject",
+    "generator": "Adobe InDesign 15.1.1",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/utrpeni_knizete_sternenhocha_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/utrpeni_knizete_sternenhocha_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/utrpeni_knizete_sternenhocha_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/utrpeni_knizete_sternenhocha_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/utrpeni_knizete_sternenhocha_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/utrpeni_knizete_sternenhocha_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/utrpeni_knizete_sternenhocha_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/utrpeni_knizete_sternenhocha_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/utrpeni_knizete_sternenhocha_009.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/idGeneratedStyles.css"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image003.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image004.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka_utrpeni_knizete_sternenhocha.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Předmluva",
+      "href": "OEBPS/Text/utrpeni_knizete_sternenhocha_005.xhtml#_idParaDest-1"
+    },
+    {
+      "title": "I.",
+      "href": "OEBPS/Text/utrpeni_knizete_sternenhocha_006.xhtml#_idParaDest-2"
+    },
+    {
+      "title": "II.",
+      "href": "OEBPS/Text/utrpeni_knizete_sternenhocha_007.xhtml#_idParaDest-3"
+    },
+    {
+      "title": "III.",
+      "href": "OEBPS/Text/utrpeni_knizete_sternenhocha_008.xhtml#_idParaDest-4"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931"/>
+    <meta name="dtb:depth" content="1"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Utrpení knížete Sternenhocha</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Předmluva</text>
+      </navLabel>
+      <content src="Text/utrpeni_knizete_sternenhocha_005.xhtml#_idParaDest-1"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>I.</text>
+      </navLabel>
+      <content src="Text/utrpeni_knizete_sternenhocha_006.xhtml#_idParaDest-2"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>II.</text>
+      </navLabel>
+      <content src="Text/utrpeni_knizete_sternenhocha_007.xhtml#_idParaDest-3"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>III.</text>
+      </navLabel>
+      <content src="Text/utrpeni_knizete_sternenhocha_008.xhtml#_idParaDest-4"/>
+    </navPoint>
+  </navMap>
+</ncx>
