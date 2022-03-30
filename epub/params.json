@@ -40,9 +40,9 @@
             "filename": "utrpeni_knizete_sternenhocha_001.md",
             "xhtml": "utrpeni_knizete_sternenhocha_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -52,9 +52,9 @@
             "filename": "utrpeni_knizete_sternenhocha_002.md",
             "xhtml": "utrpeni_knizete_sternenhocha_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -64,9 +64,9 @@
             "filename": "utrpeni_knizete_sternenhocha_003.md",
             "xhtml": "utrpeni_knizete_sternenhocha_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -76,9 +76,9 @@
             "filename": "utrpeni_knizete_sternenhocha_004.md",
             "xhtml": "utrpeni_knizete_sternenhocha_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -94,7 +94,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Předmluva"
           },
           {
             "filename": "utrpeni_knizete_sternenhocha_006.md",
@@ -106,7 +107,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "I."
           },
           {
             "filename": "utrpeni_knizete_sternenhocha_007.md",
@@ -118,7 +120,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "II."
           },
           {
             "filename": "utrpeni_knizete_sternenhocha_008.md",
@@ -130,15 +133,16 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "III."
           },
           {
             "filename": "utrpeni_knizete_sternenhocha_009.md",
             "xhtml": "utrpeni_knizete_sternenhocha_009.xhtml",
             "id": 8,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -183,25 +187,25 @@
         "xhtml": "utrpeni_knizete_sternenhocha_004.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Předmluva",
         "subtitleSuggest": "",
         "filename": "utrpeni_knizete_sternenhocha_005.md",
         "xhtml": "utrpeni_knizete_sternenhocha_005.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "I.",
         "subtitleSuggest": "",
         "filename": "utrpeni_knizete_sternenhocha_006.md",
         "xhtml": "utrpeni_knizete_sternenhocha_006.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "II.",
         "subtitleSuggest": "",
         "filename": "utrpeni_knizete_sternenhocha_007.md",
         "xhtml": "utrpeni_knizete_sternenhocha_007.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "III.",
         "subtitleSuggest": "",
         "filename": "utrpeni_knizete_sternenhocha_008.md",
         "xhtml": "utrpeni_knizete_sternenhocha_008.xhtml"
@@ -288,6 +292,6 @@
       "user": "books-are-next",
       "repo": "utrpeni-knizete-sternenhocha"
     },
-    "generatedAt": 1648622877936
+    "generatedAt": 1648623525277
   }
 }
