@@ -14,18 +14,27 @@ meta:
   edition: beletrie
   publisherShort: mkp
 readingOrder:
-  - utrpeni_knizete_sternenhocha_001.html
   - utrpeni_knizete_sternenhocha_002.html
-  - utrpeni_knizete_sternenhocha_003.html
-  - utrpeni_knizete_sternenhocha_004.html
   - utrpeni_knizete_sternenhocha_005.html
   - utrpeni_knizete_sternenhocha_006.html
   - utrpeni_knizete_sternenhocha_007.html
   - utrpeni_knizete_sternenhocha_008.html
-  - utrpeni_knizete_sternenhocha_009.html
+  - colophon.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: utrpeni_knizete_sternenhocha_005.html
+        title: Předmluva
+        hiddenTitle: false
+      - link: utrpeni_knizete_sternenhocha_006.html
+        title: I.
+        hiddenTitle: false
+      - link: utrpeni_knizete_sternenhocha_007.html
+        title: II.
+        hiddenTitle: false
+      - link: utrpeni_knizete_sternenhocha_008.html
+        title: III.
+        hiddenTitle: false
     isSection: true
     listType: plain
 static:
