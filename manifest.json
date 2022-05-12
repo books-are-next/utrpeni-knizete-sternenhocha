@@ -1,22 +1,31 @@
 {
-  "author": "Ladislav Klíma",
-  "contenttype": "prose",
-  "edition": "beletrie",
-  "identifier": "klima-utrpeni-knizete-sternenhocha-92a9db8",
-  "languagecode": "cs",
-  "modified": "2021-10-21T00:00:00.000Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Utrpení knížete Sternenhocha",
-  "revision": "92a9db8",
+  "author": "Ladislav Klíma",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "klima-utrpeni-knizete-sternenhocha-060cc14",
+  "revision": "060cc14",
+  "readingOrder": [
+    "promo.html",
+    "utrpeni_knizete_sternenhocha_005.html",
+    "utrpeni_knizete_sternenhocha_006.html",
+    "utrpeni_knizete_sternenhocha_007.html",
+    "utrpeni_knizete_sternenhocha_008.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Wed Mar 30 2022 07:04:24 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1648623864397
+    "date": "Thu May 12 2022 10:41:28 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352088948
   },
   "documents": [
     {
-      "title": "Utrpení knížete Sternenhocha",
-      "file": "utrpeni_knizete_sternenhocha_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -24,25 +33,17 @@
       "order": 0,
       "prev": null,
       "next": "utrpeni_knizete_sternenhocha_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "Předmluva • Utrpení knížete Sternenhocha",
+      "title": "Předmluva",
       "file": "utrpeni_knizete_sternenhocha_005.html",
       "words": 271,
       "chars": 1708,
       "ideas": 5,
       "role": "chapter",
       "order": 1,
-      "prev": "utrpeni_knizete_sternenhocha_002.html",
+      "prev": "promo.html",
       "next": "utrpeni_knizete_sternenhocha_006.html",
       "toc": [
         {
@@ -55,7 +56,7 @@
       ]
     },
     {
-      "title": "I. • Utrpení knížete Sternenhocha",
+      "title": "I.",
       "file": "utrpeni_knizete_sternenhocha_006.html",
       "words": 10560,
       "chars": 61593,
@@ -75,7 +76,7 @@
       ]
     },
     {
-      "title": "II. • Utrpení knížete Sternenhocha",
+      "title": "II.",
       "file": "utrpeni_knizete_sternenhocha_007.html",
       "words": 30448,
       "chars": 176237,
@@ -95,7 +96,7 @@
       ]
     },
     {
-      "title": "III. • Utrpení knížete Sternenhocha",
+      "title": "III.",
       "file": "utrpeni_knizete_sternenhocha_008.html",
       "words": 2490,
       "chars": 14425,
@@ -115,11 +116,11 @@
       ]
     },
     {
-      "title": "Tiráž • Utrpení knížete Sternenhocha",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 136,
-      "chars": 959,
-      "ideas": 24,
+      "words": 115,
+      "chars": 788,
+      "ideas": 17,
       "role": "colophon",
       "order": null,
       "prev": "utrpeni_knizete_sternenhocha_008.html",
@@ -137,9 +138,9 @@
   ],
   "totals": {
     "all": {
-      "words": 43912,
-      "chars": 254975,
-      "ideas": 1053
+      "words": 43891,
+      "chars": 254804,
+      "ideas": 1046
     },
     "chapters": {
       "words": 43769,

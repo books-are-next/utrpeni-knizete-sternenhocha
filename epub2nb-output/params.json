@@ -52,7 +52,7 @@
             "filename": "utrpeni_knizete_sternenhocha_002.md",
             "xhtml": "utrpeni_knizete_sternenhocha_002.xhtml",
             "id": 1,
-            "role": "break",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -192,19 +192,19 @@
         "xhtml": "utrpeni_knizete_sternenhocha_005.xhtml"
       },
       {
-        "titleSuggest": "I.",
+        "titleSuggest": "I\\.",
         "subtitleSuggest": "",
         "filename": "utrpeni_knizete_sternenhocha_006.md",
         "xhtml": "utrpeni_knizete_sternenhocha_006.xhtml"
       },
       {
-        "titleSuggest": "II.",
+        "titleSuggest": "II\\.",
         "subtitleSuggest": "",
         "filename": "utrpeni_knizete_sternenhocha_007.md",
         "xhtml": "utrpeni_knizete_sternenhocha_007.xhtml"
       },
       {
-        "titleSuggest": "III.",
+        "titleSuggest": "III\\.",
         "subtitleSuggest": "",
         "filename": "utrpeni_knizete_sternenhocha_008.md",
         "xhtml": "utrpeni_knizete_sternenhocha_008.xhtml"
@@ -291,6 +291,6 @@
       "user": "books-are-next",
       "repo": "utrpeni-knizete-sternenhocha"
     },
-    "generatedAt": 1648623801092
+    "generatedAt": 1652351559159
   }
 }
