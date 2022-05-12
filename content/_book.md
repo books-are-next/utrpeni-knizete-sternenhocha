@@ -14,7 +14,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
 readingOrder:
-  - utrpeni_knizete_sternenhocha_002.html
+  - promo.html
   - utrpeni_knizete_sternenhocha_005.html
   - utrpeni_knizete_sternenhocha_006.html
   - utrpeni_knizete_sternenhocha_007.html
