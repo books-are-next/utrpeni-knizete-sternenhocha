@@ -3,7 +3,7 @@ title: I\.
 contentType: prose
 ---
 
-  
+<section>
 
 Po prvé uzřel jsem Helgu na jistém plese; mně bylo 33, jí 17 let. První můj dojem byl, že je to děvče přímo ošklivé. Vyčouhlá postava, tenká, že jsi se jí lekl; tvář hanebně bledá, skoro bílá, prahubená; židovský nos, všechny tahy, ač jinak ne nejhorší, tak nějak zvadlé, ospalé, uspávající; vypadala jako mrtvola, mechanismem nějakým pohybovaná, – a stejně jako tvář, byly i její pohyby strašně líné a chcípavé. Oči měla pořád sklopené jako pětileté nejstydlivější děvčátko. Ještě nejlepší na ní byly mohutné, jako saze černé vlasy… Bylo mně direktně špatně, když jsem se ponejprv pohledem o ni otřel; a když mi hrabě M., diletující v malířství, řekl: „Ta slečna má nanejvýš interesantní, klasicky krásnou tvář,“ – nemohl jsem se zdržet chechtotu. Vůbec nevím, jak to, že všichni tihle výtvarníci a lidé „vybroušeného vkusu“ žádný vkus nemají, – patrně si jej brousili tak dlouho, až z něho nic nezbylo; co se mně líbí, jim se zrovna nelíbí, a co se mně nelíbí, jim jako naschvál se líbí. Tak třeba já nevyměnil bych tvář žádné buclaté Berlíňačky za hlavy všech řeckých kamenných bohyň, a skoro každý voják od infanterie je pro mne hezčí, než takový nosatý, podivný Schiller a Goethe, o jejichž kráse a ušlechtilosti se tolik žvaní.
 
@@ -101,7 +101,9 @@ Za měsíc byla mou chotí.
 
 * * *
 
-  
+</section>
+
+<section>
 
 Jako obětní jehně šla k oltáři; docela tak asi jako loutka, s kterou si hrají děvčátka, počínala si ve svatební noci – – a já, já jako idiot… nechci, nemohu, nesmím to líčit – –
 
@@ -165,7 +167,9 @@ Byl jsem rozhodnut, že ze svého úkrytu oba zastřelím; cítil jsem sice, že
 
 * * *
 
-  
+</section>
+
+<section>
 
 Příštího jitra opustil jsem hrad pod záminkou lovu; a o hodinu dříve, než milenci na pahorek přicházívali, ukryl jsem se tam opět v kamení, s puškou, revolverem a tesákem. Ale byl jsem dnes již odhodlán, že jim, aspoň tohoto dne, daruji život a budu jen pozorovat.
 
@@ -382,3 +386,5 @@ Míra nepravostí tvých, cizoložnice, skvrno země, je naplněna. Ten „praš
 [6](./resources/undefined) Ničemnice. Pozn. red.
 
 [7](./resources/undefined) Ušetřit podané a podmanit si hrdé. Pozn. red.
+
+</section>

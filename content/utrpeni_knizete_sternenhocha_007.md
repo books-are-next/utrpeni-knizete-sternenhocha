@@ -3,87 +3,127 @@ title: II\.
 contentType: prose
 ---
 
+<section>
+
 _21\. srpna 1912._
 
-  
+</section>
+
+<section>
 
 Dne 19. srpna Helga vskutku zmizela – Nevím kam – – –
 
-  
+</section>
+
+<section>
 
 _25\. srpna._
 
-  
+</section>
+
+<section>
 
 Předevčírem stalo se něco hrozného. Navštívil mne v hradě ten její – – – Ale nemohu, nemohu se s tím svěřit papíru… snad později…
 
-  
+</section>
+
+<section>
 
 _16\. října._
 
-  
+</section>
+
+<section>
 
 Ó jaké dva děsné měsíce mám za sebou! Zázrak, že jsem nezešílel; ale jednou nohou jsem v šílenství už stál. Nepopsatelná hrůza – soucit – lí – ale nesmím psát, papír je zrádný ničema, už tato slova – –
 
 Bohudíky nastala úleva; den ode dne se můj stav lepší, počínám zapomínat – ó Pane, stůj při mně i dál!
 
-  
+</section>
+
+<section>
 
 _24\. října._
 
-  
+</section>
+
+<section>
 
 Léčení pokračuje, poslední dva dny jsem byl zdráv a vesel skoro jako před rokem. Je vyhráno.
 
-  
+</section>
+
+<section>
 
 _27\. října._
 
-  
+</section>
+
+<section>
 
 Stalo se něco hrůzného, nemyslitelného, nemožného. Ještě teď se mně ježí vlasy. Uzřel jsem – Ji…! Bylo to včera na dvorním plese. Unaven tancem, hudbou, hemžením lidí ubíral jsem se, abych se rozptýlil, o půlnoci ze sálu řadou pokojů, dál a dále od něho se táhnoucích. Třináct je jich. Znáte divný pocit, který se člověka zmocňuje, vzdaluje-li se takto od oslnivě zářícího, tisíci hlasů šumícího, hudbou bouřícího sálu, stále více a více? Příšerně slábnou zvuky, méně a méně lidí zříte kolem sebe v komnatách, ustavičně menších a menších, záhadná pustota roste a roste, konečně je hudba již sotva slyšitelná, a zdá se vám, že jste zapadli do strašidelného světa, do komnat čarodějových, hemžících se neviditelnými duchy…
 
 Desátý pokoj byl už docela prázdný. Dveře do jedenáctého byly zavřeny. Stiskl jsem kliku, otevřely se, – zazněly dva zděšené výkřiky, – a co jsem spatřil? Na pohovce seděl admirál von M., maje dámský klobouk na plešaté lebce, a choval na klíně Jeho Excelenci pana ministra války, pohrávajícího si s krajkovým dámským kapesníkem. Vymrštili se, bílí jako papír, a nohy se jim chvěly tak, že klesali na kolena. „Ach, ach, ach!“ zaskučel konečně admirál. „Jaké štěstí, že jste to jenom vy, Jasnosti! A přisahal bych, že jsem dveře zamkl na klíč!“ „Boží milost byla s námi!“ zajektal zuby ministr a bleskurychle zamkl dveře na klíč. „Pojďte laskavě do kroužku, mon prince!“ zval mne admirál. „Tres faciunt collegium.“[8](./resources/undefined) Já, v zamyšlení svém nevěnuje jim ani pozornosti, učinil jsem jen pyšné, odmítavé gesto a šel dále. „Náš kníže dumá a bádá,“ slyšel jsem za sebou uctivý pološept, – vědíť, chlapi, co u císaře znamenám; „je velký myslitel, druhý Kant…“ Vstoupil jsem do pokoje dvanáctého, prázdného. Stanuv u okna, zahledím se do příšerné hvězdné noci; duchově odbíjela z věže půlnoc… Trhnul jsem sebou prudce, jako ze spaní vyrušen, a zamířil do třináctého, posledního pokoje. Hrobové ticho, něco hrozného valilo se na mne; ale jsa jakoby narkotisován, umínil jsem si, z pedantického vrtochu, že musím dojít až na konec nejzazší komnaty, která byla slepá, – která mne vždy, kdykoliv jsem ji dříve navštívil, plnila mystickým strachem. Otevřu dveře do ní – – přede mnou stojí Helga. Nikdo jiný mimo ni. Nebudu líčit její pohled na mne, neboť nemohu… Klesl jsem a zůstal sedět na prahu; dlouho-li, krátko-li, nevím; z vědomí mého zůstala jen černá kola, zaplavivší příšerně celý pokoj a ji… – Konečně jsem pocítil tlak na rameno – a rozeznal ministra a admirála. „Jesus Maria, co zde Jasnost tropí?“ zalomil rukama ministr. Zdvihl jsem se pomalu, a nejsa dosud při rozumu, ubíral jsem se nazpět. „Ach! rozumím!“ zašeptal za mnou poníženě admirál, plácnuv se do čela. „Sokrates, napadl-li jej nějaký problém, zůstal po celé hodiny stát jako socha, ať to bylo, kde bylo, třeba na žebříku nebo na veřejném místečku; ale náš kníže je ještě moudřejší: on si při tom pohodlně sedne!“ – Teprve v sále rozpomněl jsem se jasně, co jsem to vlastně uzřel. V průvodu dvou přátel procházel jsem dlouho celou společností, – nikde tváře, Jí podobné. Odebral jsem se s nimi až do třináctého pokoje, – nikde stopy po ní! Ministr a admirál nespatřili nikoho. Okny posledních dvou pokojů uniknout nemohla: bylať všechna zavřena zvnitřku. Zmizela snad v nějaké tajné chodbě ve zdi? či prosoukala se klíčovou dírkou – – ale co to mluvím – jako šílenec a hrůza – mlčet musím… –
 
-  
+</section>
+
+<section>
 
 _28\. října._
 
-  
+</section>
+
+<section>
 
 Oh, co to jen bylo? Helga živá, skutečná? či pouze má halucinace? či – – strašidlo Její…? Nu – už je to venku: mám strach, že je mrtva, že mne přišla – že mne bude chodit dále a stále strašit… Proč by měla být mrtva? To já nevím, já nevím nic, já jen tak… A nevím také, co by bylo strašnější: kdyby byla živá nebo kdyby byla strašidlo… Ale nejstrašnější je nejistota. Oh, oh! Dnešní noci slyšel jsem stále příšerný šelest vedle své ložnice, – jenom že nevím jistě, byla-li to Helga nebo myš…
 
-  
+</section>
+
+<section>
 
 _3\. listopadu._
 
-  
+</section>
+
+<section>
 
 Děsné to bylo na Dušičky, – ale dnes je mně zas už dobře. Došel jsem k nevývratné jistotě, že byla pouhým mým přeludem, čiře vědeckou halucinací, dokonale vysvětlitelnou dlouho trvajícím rozčilením a ustavičným viděním té pekelnice ve fantasii: její obraz přeskočil prostě z předrážděného mozku na retinu; proč by ne, může-li se to při obyčejném vidění díti stále opačně? – Jen se neplašit a bude všechno dobře.
 
-  
+</section>
+
+<section>
 
 _1\. prosince._
 
-  
+</section>
+
+<section>
 
 Všecko je dobře. Musím se sice stále opíjet a hýřit, abych nemyslel na jisté – jisté věci, ale halucinací už nemám, nemám z nich strach, nebudu ho již mít.
 
-  
+</section>
+
+<section>
 
 _3\. prosince._
 
-  
+</section>
+
+<section>
 
 Dnes, o druhé odpoledne, šel jsem procházkou do lesa, poblíž svého zámku Sausteinu, kde nejraději bydlím. Nikde stopy sněhu; země zelená jako v dubnu; březnově zářilo slunce, hřálo, pálilo skoro. Byl jeden z těch příšerně kouzelných zimních dnů, kdy příroda, mrtvá a přece živá, budí dojem nahé, galvanisované mrtvoly. Kráčím snivě tiše svítící mýtinou, teplo v srdci. Tu spatřím stranou v lese na lavičce u pěšiny dámský oděv, nízkým sluncem na temném pozadí oslnivě se třpytící, černý, dlouhý stín vrhající. Miluju dámy a proto, učiniv okliku, zašel jsem na onu pěšinu a blížil se k lavičce. Již stojím u ní, popatřím – – Helga…! Jako tenkrát na práh, usedl jsem teď na hromadu listí… Ale dnes nabyl jsem ihned srdnatosti – vyskočil a horempádem, zděšeně křiče pádil jsem odtud. „Babo! ničemo! vole!“ znělo za mnou příšerně – a ozval se i rychlý dupot. Nevím, jak se stalo, že jsem hrůzou nezemřel. – „Tys myslil, že máš ode mne pokoj, ale stále a stále tě budu pronásledovat! Hahaha, vole, hahaha!“ dunělo to jako chechtot lesního ducha. Neustal jsem běžet, dokud nebyl les za mnou; pak jsem klesl na trávník. Ale za chvilku ozval se z lesa šustot, snad to byl zajíc, pták, veverka, já však upaloval už zas dál. Konečně se ohlédnu; nikdo za mnou nešel. „Jsem zachráněn!“ oddychnu si; a veselá, hřejivá zář slunce naplnila mne slastí, pýchou a hrdinstvím. Tu pohlédnu – a vidím Helgu asi 200 kroků před sebou, proti mně se ubírající. Šla právě odtud, kam já jsem utíkal, – nemožno, aby mně byla tak velkou oklikou tak rychle nadběhla. Dám se na útěk stranou, – než tu, chvála bohu, jdou proti mně dvě babičky s klestím na zádech. „Jsem mezi lidmi, zachráněn!“ vzkřiknu přešťastně, obejmu stařenky a líbám je. Pak se podívám nazpět – Helgu jsem už neviděl. Babičky mne musily doprovodit až do zámku, a každá za to dostala 1 000 marek. –
 
 Cítím, že mne to bude pronásledovat stále. Je to ovšem jen má mizerná, planá halucinace. Ale, k čertu, co je mně to platno, když mně působí stejnou hrůzu, když bych z ní mohl stejně zešílet jako ze skutečného strašidla? Když ji musím ve chvíli, kdy ji mám, považovat docela za jejího ducha? Halucinace, zdá se mně, jest jen jiné nepoctivější slovo pro to, čemu říkali všichni naši moudří předkové „strašidlo“; pěšky jako za vozem. Bože, bože můj – –
 
-  
+</section>
+
+<section>
 
 _4\. prosince._
 
-  
+</section>
+
+<section>
 
 Ale je tak jisto, že to byla včera halucinace, tj. strašidlo? Nemohla to být – Helga živá, skutečná? Aspoň ta v lese zcela dobře. Že by mně pak byla tak rychle nadběhla, nedovedu si ovšem vysvětlit; ale což jsem rozeznal obličej té, která v polích proti mně kráčela? A oděv podobný může mít každá dáma…
 
@@ -91,29 +131,41 @@ Avšak jak by se tu mohla octnout, když je už půl čtvrta měsíce v – �
 
 Všechno je možné. Ta včerejší mohla být skutečností, ta ve 13. pokoji halucinací – to si neodporuje. Nevím vlastně určitého nic. Strašlivá nejistota, k zešílení… Mohl bych ji zničit – – a vím jak – vím, nikomu to nepovím – ale bylo by to příliš hrozné – ne, ne…!
 
-  
+</section>
+
+<section>
 
 _6\. prosince._
 
-  
+</section>
+
+<section>
 
 Ale ta nejistota jest ještě hroznější… Musím, – ale nemohu – – ne – ne – Pane milostivý!
 
-  
+</section>
+
+<section>
 
 _8\. prosince._
 
-  
+</section>
+
+<section>
 
 Zase jsem ji uzřel! Dnes v městečku R., dvě hodiny od mého zámku vzdáleném. V živé ulici; právě v poledne. Šla s dámou a dvěma pány; jeden mne před časem léčil z lues; a i tu druhou dámu znám, z baru. Mluvila s nimi sonorně svým, tak známým démonickým hlasem. A oni jí čile odpovídali jako každému smrtelníku. Na mne se ani nepodívala…, ač jsem byl nucen usednout na chvíli na pytle s uhlím, vedle narovnané.
 
 Žije, žije! Toť jisto…! Jak by s ní ti lidé byli mohli mluvit, a dokonce se s ní smát? Žije – _utekla z_ – – _Kordiller_. Jasné poledne – na hlavní promenádě – s hejsky – měla lorňon – copak proboha řádné strašidlo neboli halucinace potřebuje lorňon…? Ale jak jen mohla – – vrátit se z Kordiller…?
 
-  
+</section>
+
+<section>
 
 _9\. prosince._
 
-  
+</section>
+
+<section>
 
 Ale je to tak jisté, že byla skutečná? Její průvodci mohli být stejně jako ona jen mou halucinací. A nebyli-li, mohli vidět halucinačně ji, stejně dobře jako já. A vždyť, tisíc ďáblů, mohla být, celá ta hlučná ulička a i to jasné, nízké slunce jen prašivou halucinací. Beztoho jest jen jí celý vesmír, a já sám nejvíc.
 
@@ -121,37 +173,53 @@ Zase mne začíná z dálky ofoukávat – šílenství. Mám k němu talent,
 
 Musím se přesvědčit! Musím! Zítra jedu do hradu, kde je ona věž s dalekohledem. – Hu – u – – uuu!
 
-  
+</section>
+
+<section>
 
 _10\. prosince._
 
-  
+</section>
+
+<section>
 
 Psáno v děsném hradě Rattentemplu. Bylo skutečným hrdinstvím, že jsem překročil starodávný padací most. Ale věž – na tu jsem si netroufal ani z dálky pohlédnout… Zítra však! Zítra musím stůj co stůj mít jistotu.
 
-  
+</section>
+
+<section>
 
 _11\. prosince._
 
-  
+</section>
+
+<section>
 
 Neodhodlal jsem se. Ale dobře: byl pátek a slunce nesvítilo. Zítra neodvolatelně!
 
 Aspoň malé dítě kdybych mohl vzít s sebou – –
 
-  
+</section>
+
+<section>
 
 _12\. prosince._
 
-  
+</section>
+
+<section>
 
 Zas nic. A pochopil jsem, že to nedokážu. Došel jsem rozhodnutí, že ještě zítra hrad opustím. Však se věc sama sebou nějak vyvine k dobru.
 
-  
+</section>
+
+<section>
 
 _Téhož dne pozdě večer._
 
-  
+</section>
+
+<section>
 
 Odpoledne jsem se šel umýt do malé hradní koupelny. Jsem jist, že mimo mne, vanu a lampu tam nebylo nic. Mnu si oči, do nichž mně natekla voda, – náhle se něco před vanou míhá – popatřím ostře – Daemona stojí tam, zcela určitá, bílá, strašlivá. Omdlel jsem. Přišed opět k sobě, neviděl jsem ji už, ale shledal jsem, že dveře jsou zevnitř zamčeny na závoru. – –
 
@@ -161,11 +229,15 @@ Ne, ne, teď je nutnější než kdy dříve, jít se přesvědčit. Mám prosto
 
 Strachu z toho druhého, modlím se k tobě: vlij do mne rekovnost, abych překonal strach z prvního.
 
-  
+</section>
+
+<section>
 
 _13\. prosince._
 
-  
+</section>
+
+<section>
 
 Ó požehnání statečnosti! Teď, co toto píšu, jsem klidný, ač vítr burácí tak hrozivě, že se třesu jako list. Ale proč se bát? V obou pokojích, sousedících s mým, umístil jsem ozbrojené sluhy; ti by jí pověděli! Nuže:
 
@@ -207,11 +279,15 @@ Hrůza! je možné, že spanilé tělo, jehož vůně – –
 
 Ale nemyslit na to, ať se mně zas nezdají hrůzné sny.
 
-  
+</section>
+
+<section>
 
 _14\. prosince._
 
-  
+</section>
+
+<section>
 
 Ta hrůzná noc! Za věčný ráj nechtěl bych ji znovu prožít! Byly děsnější její sny či insomnie…? Ó Helgo, má hvězdo strašlivá, kterou teprve teď, zavraždiv tě, vskutku miluju, – cos asi vytrpěla! Jak bídácký, věčného zatracení hodný byl můj čin! Avšak mohl jsem jednat jinak? Může jinak jednat choť, který viděl a slyšel to, co já…? A pak – byl jsem přece jen nástrojem Boha, trestajícího strašnou hříšnici: je spravedlivo, Pane, že trestáš ubohý nástroj trestu svého tak nemilosrdně…
 
@@ -319,11 +395,15 @@ Ale zmýlila se tentokrát šeredně, a to rozhodlo její osud, jak se uvidí. 
 
 Toto vše nebylo ode mne zcela, v plném smyslu gentlemanské, galantní. Ale bylo nutno ukázat jí, že nejsem „prašivý pes“. – –
 
-  
+</section>
+
+<section>
 
 _15\. prosince._
 
-  
+</section>
+
+<section>
 
 Dantovo péro by bylo neschopno vylíčit má utrpení po dobu následujících strašlivých 14 dnů. Budu proto co nejstručnější.
 
@@ -351,11 +431,15 @@ Nejhrobovější ticho. –
 
 Dokonáno. Přišel jsem pozdě. Odbyla si aspoň pozemské utrpení. Ale co mne, mne tu čeká?
 
-  
+</section>
+
+<section>
 
 _16\. prosince._
 
-  
+</section>
+
+<section>
 
 Vypravuju tedy, co se přihodilo 23. srpna.
 
@@ -423,7 +507,9 @@ Byl pohřben na mrchoviště. Slon a Lev zůstali naštěstí živi a zdrávi.
 
 _20\. prosince._
 
-  
+</section>
+
+<section>
 
 Bydlím opět ve svém zámku, Sausteině, poblíž něhož jsem v lese spatřil Jejího ducha. Zámek je veselý, na vlídné rovině, ne jako onen hrad v hrozivém pohoří položený. Bývalo mně zde vždy dobře. A nyní – nyní – óh!
 
@@ -435,11 +521,15 @@ Má spásná kotva: jistota, strhla mne jen hloub do mých tůní. Strašlivé v
 
 Zdá se mně, že její ustavičná přítomnost v mé fantasii musí ji učinit stále přítomnou i v mých očích… Že hrůza před ní _musí_ nakonec porodit ji _skutečnou_! Neboť vše „skutečné“ jest, myslím, jen dítětem fantasie, snu… Ale co při této myšlence ve mně víří, nedovedu říci, a sotva by to dovedl aspoň naznačit i nejgeniálnější filosof.
 
-  
+</section>
+
+<section>
 
 _22\. prosince._
 
-  
+</section>
+
+<section>
 
 Den slunovratu; pravý největší a jediný svátek roku – svátek Znovu­zrození přírody; skutečný Nový Rok. Potrpím si naň a světím jej; a dle toho, co se toho dne stane, prorokuji si vždy celý příští rok.
 
@@ -449,11 +539,15 @@ Moji soustolovníci, spatřivše, že jsem upadl, odnesli mne na pohovku a vzk�
 
 Co věští toto vidění mého Nového Roku pro příští rok…? –
 
-  
+</section>
+
+<section>
 
 _25\. prosince._
 
-  
+</section>
+
+<section>
 
 Včera večer hledím, stromeček s planoucími svíčičkami za sebou, ve hvězdné, ledové nebe. Co hvězda, to krystal sněhu. Jako k Soudu Poslednímu hlaholily zvony. Myslím na příchod Spasitele. Spasiteli, přijde spasitel i ke mně…? Náhle si pomyslím, zachvácen tajemnou hrůzou: což kdyby se zjevila teď, teď za oknem, její tvář…? Odskakuju od okna – ale pozdě: strašlivě zabělal se její obličej za tabulí skla, bílý jako ten sníh, jako ty sněžné hvězdy na obloze – čelo přilnulo ke sklu – oči její…
 
@@ -461,19 +555,27 @@ Spasiteli, Spasiteli, co jen chceš se mnou dělat…?
 
 Zešílím, zcela jistě zešílím… Píše toto, přistihuju se při povážlivém matení pojmů – – –
 
-  
+</section>
+
+<section>
 
 _27\. prosince._
 
-  
+</section>
+
+<section>
 
 Jedinou mou nadějí je dr. Habebald Wechselbalg, nejslavnější psychopatolog německé říše, sídlem v Berlíně. Zítra k němu jedu.
 
-  
+</section>
+
+<section>
 
 _29\. prosince._
 
-  
+</section>
+
+<section>
 
 Tak tedy jsem včera byl u toho velikána. Inkognito. V prostém, nuzném šatě. Dělal jsem asi – protože mám nohy trochu do X, – dojem předpeckého. Nemohl jsem ovšem tomu učenci vykládat o Daemoně. Vymyslil jsem si příběh: že mrtvý můj přítel, kterého jsem kdysi zfackoval, chodí mne teď stále strašit.
 
@@ -501,11 +603,15 @@ Byl jsem v nebi, takové sebevědomí, vědomí své ceny, které si dává tak
 
 Bezmála bych byl výskal, když jsem vyšel na ulici.
 
-  
+</section>
+
+<section>
 
 _7\. ledna._
 
-  
+</section>
+
+<section>
 
 Nanejvýš svědomitě řídil jsem se podle učencových rozkazů. Živil jsem se jen zeleninou, boby a mlékem; jelikož však mně tyto věci nikdy nešly k duhu, zkazil jsem si žaludek. Napájel jsem se jen jeho vodovou sodou, ta účinkovala ovšem „neomylně“: dostal jsem průjem jako Diana, že šla ze mne jen křišťálová voda. Zřekl jsem se kouření, které mně dříve dávalo něco klidu, a cítil se teď stále nespokojený, nudící se, skleslý. Nepil jsem nic alkoholického a neměl teď ani jediné snesitelné chvíle, kdežto dříve, když jsem se důkladně opil, aspoň pár hodin mně bývalo dobře, vesele a statečně. Abych duševně nepracoval – to věru nemusil aristokratu radit! Tři hodiny denně jsem kopal, ryl atd.; následek toho byl, že se všechny mé, na to nezvyklé údy rozbolely tak, že jsem nemohl povstat z postele. Také jsem se snažil být veselý, statečný a klidný; škoda, že mně ten veleduch zapomněl dát recept, jak se toho docílí; prostředky ke klidu, veselosti a statečnosti: nikotin a alkohol mně vzal a nic mně, zloděj, za to nedal. – Prášek jsem podle rozkazu také užíval, ale účinky nemohl jsem postřehnout. Teprve dnes; přesně podle učencovy předpovědi! Ukládaje se totiž ke spánku, odhrnuv peřinu vidím pod ní lidskou kostru, a k ní, motouzem přivázanou, neporušenou, chechtající se tvář Daemony…
 
@@ -515,11 +621,15 @@ Nedostatečně jsem se řídil podle rad psychotopaloga. Zítra to napravím �
 
 Čičičiči – – –
 
-  
+</section>
+
+<section>
 
 _8\. ledna večer._
 
-  
+</section>
+
+<section>
 
 Hned ráno jsem poručil, aby byl pro mne uvařen plný kotel – v němž se vařilo pro 40 v zámku chovaných vepřů – plný kotel bobů, zelí, mrkve, cibule, česneku, vůbec vší možné zeleniny na světě, všechno uvařeno v mléku a Wechselbalgově vodové sodě. Jelikož mně poručil, abych bral studené koupele a byl stále v přírodě, rozkázal jsem, aby mně byla do zahrady přinesena vana ledové vody. A abych tělesně pracoval, dal jsem si přinésti spoustu polen a pilu. Když přinesli kotel, vlezl jsem si do vany a žral boby a mrkev a petržel jako koza a pil k tomu z kotle zelené mléko a Wechselbalgianum. Zvracel jsem sice jako pes, ale přes to hrdinně řezal polena, a abych byl podle předpisu vesel a statečný, řval jsem: hip, hip, hurá! já se nebojím ani kominíka; a abych byl klidný, rozhodl jsem se napodobit Angličany: nasadil si monokl, sykavě fičel stále „ol rajt“ a prskal skrze zuby. Co se týče alkoholu a nikotinu, abstinoval jsem od nich po celý týden dokonale, ale abych své nepřátelství k oběma jedům stupňoval, dal jsem si přinésti bedny doutníků a baterie lahví s absin­tem a s hurónským řevem jsem to všechno rozmlátil na padrť.
 
@@ -536,41 +646,57 @@ Moji věrní služebníci mne střeží, aby mne dali zítra do blázince. Je tu
 Moje Jasnost kníže Hellmuth Sternenhoch,  
 t. č. králík a blázen.
 
-  
+</section>
+
+<section>
 
 _28\. ledna._
 
-  
+</section>
+
+<section>
 
 Jak jsem tušil, měl heroický osmý leden veliký účinek. Onemocněl jsem vážně, řadu dní byl jsem bez vědomí nebo v deliriu. To zapudilo šílenství, které jižjiž hrozilo si mne podmanit. Když jsem opět přišel k jasnému vědomí, bylo šílení fuč. Ale i poté: vysílenost – stálé líbezné snění a ty všechny krásné myšlenky, které provázejí vždy nemoc a rekonvalescenci, radost, že se uzdravuju – to vše způsobilo, že jsem na Daemonu ani nemyslil. Ajta! teď teprve začínám vnikat do mystérií lékařské vědy, jako Friedrich Veliký vnikl do tajemství strategie teprve potom, když byl bit. K tomu tedy cílil Učenec: abych těžce onemocněl a tím se uzdravil. Geniální myšlenka: přemáhat nemoc nemocí; similia similibus curare[10](./resources/undefined).
 
 Jen o to jde, budou-li blahodárné účinky mé nemoci trvat i pak, až budu zcela zdráv. Neboť cítím, že ještě jednu podobnou léčbu nemocí bych nevydržel.
 
-  
+</section>
+
+<section>
 
 _2\. února._
 
-  
+</section>
+
+<section>
 
 Dnes byl jsem už zdráv. Usínaje, slyším škrabání na dveře. „To je Slon nebo Lev,“ řekl jsem si, zapomínaje v rozespalosti, že jsou už na pravdě boží. – Otevřu – Ona…! A dál nevím nic. – Zdá se mně, jako by mne byla tak nějak znásilnila – –
 
 Pomalu budu s ní denně obědvat – Chichichichi.
 
-  
+</section>
+
+<section>
 
 _3\. února._
 
-  
+</section>
+
+<section>
 
 Neztratil jsem dosud víru ve vědu. Je tu ještě ten prášek. Přísně mně učenec zakazoval, abych ho nebral víc než půl kávové lžičky. Ale jelikož jeho rady byly vesměs blbé, bude snad blbé i jeho zrazování. A heroicky rozhodnut, spolkl jsem všechen prášek, jenž měl vystačit ještě na tři týdny.
 
 „Zítra se probudím mrtev. Ať! Bože, dej, ať procitnu po tomto pozemském očistci u tebe v nebi. Ha! Všechny vnitřnosti se mně svírají, strašné bolesti – běda, běda, se mnou je amen…“
 
-  
+</section>
+
+<section>
 
 _4\. února._
 
-  
+</section>
+
+<section>
 
 Procitl jsem ne v nebi, ale na své posteli. Ale což stojí-li ta postel někde v nebi? Což sním-li jen, že jsem procitl? Vždyť musím být mrtev, mrtev… A je mně tak nebesky krásně. Nikdy mi nebylo tak líbezně; vyskočím z postele, tančím a zpívám… Komorník přináší snídani: berlínské pečivo –
 
@@ -578,19 +704,27 @@ Procitl jsem ne v nebi, ale na své posteli. Ale což stojí-li ta postel někd
 
 Pozdě odpoledne však, když jsem kráčel chodbou, položil mně někdo prudce ruku na rameno. Ohlédnu se; nikde nic. Vpotácím se do nejbližších dveří, – Helga stojí přede mnou, podávajíc mi s úklonou ruku a chechtajíc se: „To jsem vám nadběhla, co…?“
 
-  
+</section>
+
+<section>
 
 _6\. února._
 
-  
+</section>
+
+<section>
 
 Věda mne zklamala. Rozhodl jsem se, že vezmu útočiště k pověře. V Berlíně žije proslulá čarodějnice jménem Esmeralda Carmen Kuhmist, dcera pastora a cikánky. Činí prý zázraky všeho možného druhu. Ještě dnes tam jedu.
 
-  
+</section>
+
+<section>
 
 _7\. února._
 
-  
+</section>
+
+<section>
 
 Tak jsem byl u ní. Opět inkognito, ošumělý předpecký. Spatřil jsem ženu 45letou, vysokou, s klasickým, přísným, přímo velebným obličejem; jaký kontrast proti blbému špalku Wechsebalgovi! I jí mluvil jsem o zfackovaném slaďákovi. „Ó, snadná pomoc, vzácný pane!“ zvolala se svatým přesvědčením v hlase; „budete rázem vyléčen, – avšak – avšak bude to stát mnoho peněz…“ „Mnoho-li?“ „Ach – – 15 marek!“ – „Tak mnoho? Ježíši, kde je seberu?“ – „No, vzácný pane – z lásky k bližnímu vám to udělám za 12 marek…“ – „Za 10 by to nešlo…?“ – „Nuže – ve jménu Páně, za 10! A teď zajásejte, pane! Jakože slunce zemi oblažuje, pozbude pekelná moc moci své nad vámi! Všemohoucí je prostředek můj!“
 
@@ -598,11 +732,15 @@ A přinesla ze skříně obyčejný ořech, obtočený režnou nití. „V tom
 
 Mluvila tak energicky a velebně, že jsem z plna srdce nábožně uvěřil; vznešeně bylo mně v duši. Zavěsiv talisman na hrdlo a zaplativ místo 10 sto marek, letěl jsem domů vyzývaje všechna strašidla na souboj.
 
-  
+</section>
+
+<section>
 
 _28\. března._
 
-  
+</section>
+
+<section>
 
 Požehnaná ty mezi ženami! Miliony tě zasypu, potrvá-li stav můj ještě rok! Jsem zdráv, zdráv! A jen ten pochopí čarovný význam slova toho, kdo byl nemocen.
 
@@ -614,11 +752,15 @@ Koncem února zmizel můj strach a s ním i všechny výčitky svědomí; poh
 
 Helgo, Daemono, do prd – – e mne vskoč!
 
-  
+</section>
+
+<section>
 
 _29\. března._
 
-  
+</section>
+
+<section>
 
 Zbortěte se nebesa! Dnes jsem ji zase uzřel a – – dlouho, dlouho s ní mluvil…! Jen si považte, mluvil jako s každým obyčejným člověkem…!
 
@@ -748,11 +890,15 @@ Nejdůležitější je: strašidelná hrůza před objevením se Helgy úplně z
 
 Ale mimo to mám také strach, že si vzpomene na toho gentlemana, a že pak jednou přijde a zmlátí mne jako koně – –
 
-  
+</section>
+
+<section>
 
 _31\. března._
 
-  
+</section>
+
+<section>
 
 Pocit, že strašidla se už nebojím, namluvil mně, že jsem od něho vysvobozen, i kdyby nepomáhaly čáry Esmeraldy Carmen Kuhmistové. Již teď vidím, že jsem si vyměnil jedno peklo za druhé. Strach před strašidlem nemám sice žádný nebo skoro žádný, zato tím větší hrůzu z trestu božího; mohla by mě znovu přivésti k šílení jako dříve strach před Přízrakem. A čím dále, tím více se bojím, že najednou vpadne ke mně jako lítice a zfláká mne. Ona je všeho schopna.
 
@@ -772,21 +918,29 @@ Ještě dnes píšu Hagenbeckovi: Deset nosorožců! Ale – proboha, teď vzpo
 
 Ale ty bestie tě předevčírem větřily… Bože, byla jsi snad přece jen –? Ale – vždyť mohou cítit i přítomnost ducha; zvířata to jak známo dovedou lépe než lidé. – Zítra uteču do Berlína.
 
-  
+</section>
+
+<section>
 
 _4\. dubna, Berlín._
 
-  
+</section>
+
+<section>
 
 Radovánky, hýření. Ale ani na okamžik mne neopouští Daemona. Není mně však zle. Má trýzeň se aspoň nezvětšuje. Co se nezvětšuje, umírá, třeba sebe pozvolněji. I koza musí chcípnout, – říkají Poláci; chcípne i mé utrpení. – –
 
 A snad už je po něm. Je mně tak dobře. Hip, hip, hurá! Hlavní věc je přece jen, že mne už ani nenapadne, bát se strašidla! A myslím, že už ani nepřijde; má ze mne vítr. Hip, hip, hurá! Jsem nalitý jako houba, ale tak to má být! Helgo, do prd – – e mně vskoč!
 
-  
+</section>
+
+<section>
 
 _7\. dubna._
 
-  
+</section>
+
+<section>
 
 Je mně stále překrásně. Ale musím konečně zas jednou navštívit Wilíčka. Ohlásil jsem mu to již. Strašně nerad k němu jdu. Ale on mě má strašně rád. Jsem jistě v Nemilosti; jednak proto, že jsem ho tak dlouho neoblažil, dále, že mé výstřednosti se jistě donesly k Jeho sluchu a k sluchu Augusty. Ovšem, Imperator Rex jest informován – – jen o tom nejdůležitějším ne.
 
@@ -794,11 +948,15 @@ Ale nevím, co by mně bylo nemilejší: zda jeho nemilost či milost.
 
 Jsem stále vesel a ochlastán. Helgičko, ty smrade, vyřiď si své věci s Pánem Bohem, jak to dovedeš. Já si je vyřizuju s děvčaty. Herdek, ty holky z berlínských barů jsou štramačky – –
 
-  
+</section>
+
+<section>
 
 _10\. dubna._
 
-  
+</section>
+
+<section>
 
 Tak jsem se tam konečně dostal; odpoledne jsem obdržel suché pozvání k večeři. Třásl jsem se, vystupuje po schodech paláce. Komorník ohlásil můj příchod. Skoro vzápětí zazněla hudba – sit venia verbo[14](./resources/undefined)! Lze prý poznat každého velkého komponistu dle hluboké svéráznosti jeho muziky. Je-li tomu tak, pak je Wilhelm II. jistojistě největší ze všech: i člověk tak nemuzikální jako já pozná podle absolutní nemelodičnosti a neharmoničnosti, za okamžik, že to „složil“ On. Nemelodičnost a neharmoničnost jsou sice vlastnosti všech moderních skladeb; ale kdežto jinde nemají skladby s melodií a harmonií prostě co činit, jsou komposice císařovy nejfrapantnějším jejich _opakem_; jinde je to poměr barvy bílé a červené, u císaře bílé a černé.
 
@@ -879,11 +1037,15 @@ Ubohá trojko! Ubohý národe! Starořecký vojevůdce Chabrias řekl: „Více 
 
 V jakési temné, děsné předtuše plakal jsem, pro Tebe, této noci, Germanie…
 
-  
+</section>
+
+<section>
 
 _25\. dubna._
 
-  
+</section>
+
+<section>
 
 Čtrnáct dní jsem si nenapsal nic, nemaje k tomu ani vteřiny; naprosto mne absorbovaly zábavy, pití, dámy, mladíci, přátelé, císař. Jsem vyléčen, absolutně! Na každou baletku vzpomínám více než na – ni. Hossanah!
 
@@ -891,29 +1053,41 @@ Myslím však, že větší podíl než všechny zábavy mělo na mém vyléčen
 
 Odejel do Španělska navštívit Alfonse. Vrátí se teprve za tři týdny. – Jediného utrpení, které mně dosud zbylo, jsem prost! Teď budu jen hýřit s Moltkem a Eulenburgem. Ó ta krása, být po strašném utrpení zase šťasten! Jak nádherný je svět!
 
-  
+</section>
+
+<section>
 
 _27\. dubna._
 
-  
+</section>
+
+<section>
 
 V sedm hodin ráno. Okna mé ložnice jsou otevřena. Širé zahrady rozprostírají se pod nimi. Venku vše zář a ples a smích. Třeba je časná doba jitřní i jarní, – skoro letní vzduch proudí sem zvenčí. A to smějící se slunce, ač dosud nízké, pálí. Vůně meruňkových a třešňových květů vanou sem jako mystické pozdravy luzných vzdušných duchů. Jezero stromů pode mnou křičí ohlušivě světlými zpěvy nesčetných ptáčků. Obláčky na nebi usmívají se dolů na mne, – jak rád bych k vám vzlétl, mé holubičky zlatostříbrné, a jezdil tou modrou věčnou pouští na vašich zádečkách…! Nevydržím doma sedět, – vzhůru s Eulenburgem a Moltkem do přírody! –
 
-  
+</section>
+
+<section>
 
 _Téhož dne v 11 hodin v noci ve vinárně._
 
-  
+</section>
+
+<section>
 
 Bájný byl to den. Odjeli jsme, my tři, automobilem z Berlína, ale cestou přibrali jsme k sobě několik báječných dam a fešných číšníků… Ó jak krásně jsme se všichni měli v lesích a restauracích, lučinách, neviditelných kotlinách a nevěstincích! Byl to nejnádhernější den mého života…! Vjížděje, opojen vším možným, opět do Berlína, měl jsem náhle trochu příšerný pocit: můj vrchol dosažen…!
 
 Vešel jsem sám do svého bytu a zarazil se na prahu, strašně uleknut: pokoj byl mohutnými červánky tak pekelně osvětlen, že jsem viděl jen krev, krev… Přes pokušení, abych se vrátil nazpět, pokročil jsem dál; Óh, proč jsem tak učinil…! Zdálo se mně, jako bych cítil zápach mrtvoly. Mé zděšení rostlo kvapem, nevěda proč, beru do zaječích, tu teprve spatřím – Ji. Na vysoké skříni, pod samým stropem, seděla a klátila nohama, dolů visícíma. Pohled její byl potmě­šilý, výsměšný, jeduplný. V ruce držela provaz, opatřený kličkou, a točila jím nad hlavou… Tentokrát jsem měl ještě sílu, vyřítit se na chodbu; tam však jsem klesl. –
 
-  
+</section>
+
+<section>
 
 _30\. dubna._
 
-  
+</section>
+
+<section>
 
 Tak teď jsem šťastně zase tam, kde jsem byl před 1. aprilem, když jsem odjel do Berlína; zcela rázem. Ba byl jsem vržen ještě mnohem dál dozadu. Nejen, že v plné síle cítím opět onu strašnou bolest nad věčným zatracením své ženy, nejen, že mám nový, čerstvý strach – z její oprátky: – hrůza před strašidlem vyvstala ve mně mocněji než kdy dříve. Žádné její zjevení dosud nebylo pro mne tak děsné jako toto. Všechny mé, téměř už zacelené rány znovu se široce otevřely; ni minutu nemám klidnou; všechna chuť z požitků zmizela; marný každý pokus o sebepřemožení… Co jedině trochu pomáhá, je dobytčí zpití se; ale to musí vésti nepřímo jen k urychlení – – strašlivého konce…
 
@@ -923,11 +1097,15 @@ Mám ovšem Podex romanus; ale ten nemá absolutní moc; musí být doplňován 
 
 Ale tyto nové disposice mne velice uklidnily; s plnou důvěrou hledím budoucnosti vstříc.
 
-  
+</section>
+
+<section>
 
 _4\. května._
 
-  
+</section>
+
+<section>
 
 Lidičky drazí, pro Pána Krista, já vám s ní mluvil zase! V lese, věříte? Vedle mne stál strom. A považte si, ona vám dneska dokonce přijela! V kočáře! A v mužských šatech byla! A v ruce držela bič! Ale mně nenařezala. A kdybyste byli slyšeli její řeči! Nu všecko vypovím, jen si musím dát pozor, abych – nepřeskočil tuhletu krabičku sirek, vlastně, lépe řečeno, abych si nepletl pojmy. Víte, mně se zdá, že tak trošku blázním. Ale to přejde, viďte? Všecko přejde; i koza musí chcípnout. A abyste věděli, nebyla by přijela, kdybych byl vykřikl včas to, co už znáte. Ale když ona vám byla v mužských šatech! Krátký kabátek, těsně přiléhající tenké zelené kalhotky, herdek, měli jste vidět to její bříško a tu její zadnici pod nimi! – Nu tak tedy:[21](./resources/undefined)
 
@@ -1021,11 +1199,15 @@ Ale dost! Čtenář už viděl, že jsem blázen; co se ze mne mohlo stát po t�
 
 Je už půlnoc. Zázrak, že jsem to všecko dnes, dnes napsal. Ale to udělal její líh a nic jiného. Opil jsem se jím pod obraz; a to mne zachránilo před úplným zblázněním. Pálil vám mne v krku ještě za pár hodin. Moltke a Eulenburg jej ze mne cítili, pátrali v mých kapsách i v okolí po láhvi, ale nenašli nic. Kroutili hlavou; já jim ovšem neřekl, jak se to stalo… I kdybych já byl chtěl, nebyl by mohl můj zdřevěnělý, spálený jazyk.
 
-  
+</section>
+
+<section>
 
 _6\. května._
 
-  
+</section>
+
+<section>
 
 Jsem stále na mol. Opilost je šílenství; postupuju homeopaticky; vyháním ďábla Belzebubem. A koukejte, daří se to výtečně. Jsem teď vlastně blázen, ale protože jsem pořád jako houba…, nikdo to na mně nevidí; nebýt poslední dny v jednom kuse s věrnými, pečujícími o mne přáteli ožralý, seděl bych v blázinci. Ale co víc: byl bych _opravdu_ šílený. Do blázince dostane se přemnoho lidí nejrozumnějších, a skoro každý, kdo chodí volně po ulicích, patří do blázince.
 
@@ -1039,11 +1221,15 @@ Ve věži ležela, růžová a bílá, jako prase v řeznickém krámě. Zblá
 
 Jedinou vinu na celém neštěstí nese to, že měla mužské šaty a že mne nenapadlo zařvat včas – vy víte co. Zde je nutná reforma. Ode dneška budu řvát svou paroli proti každému, ať žena či muž, koho potkám. Sláva! V tom je má spása. Jsem uklidněn. Vše půjde dobře.
 
-  
+</section>
+
+<section>
 
 _9\. května._
 
-  
+</section>
+
+<section>
 
 Jsem v Sausteinu. Z tohoto důvodu: v Berlíně si přece jen nemohu tak beze všeho dovolit, řvát ustavičně své zařikadlo. Zařval jsem je před důstojníkem, který měl staturu jako ona… Dal mně facku, že ještě dnes se mně jiskří v očích. Bude suspendován, už jsem to zařídil; ale facka sedí. Ale v Sausteinu mě všichni daleko široko znají, tam přijmou mou paroli se vší příslušnou reverencí.
 
@@ -1051,11 +1237,15 @@ Když jsem ji dnes po mezích vykřikoval, všichni vesničané a vesničanky o
 
 All right! Jen hodně pít a jsem zachráněn. Ale – chraň Bůh, aby se mně ještě jednou zjevila. Cítím určitě: stane-li se to, je se mnou konec.
 
-  
+</section>
+
+<section>
 
 _11\. května._
 
-  
+</section>
+
+<section>
 
 Hihihihi! Velectěné publikum! Kníže Sternenhoch klade si za čest oznámit Láskám Vaším, že včera a dnes přihodily se následující veledůležité události: Předně mne Daemona zpohlavkovala jako koně. Za druhé přespal jsem noc ve stáji na telátku, které mělo černý čumec a vzadu ocas. Za třetí vešel do mne duch zvěčnělého mého bernardýna Slona. Za čtvrté otevřel jsem podex romanus. Za páté byl jsem u Esmeraldy Carmen Kuhmistové a přijal její požehnání. Za šesté popral jsem se s policajty, začež mně na strážnici nařezali, až jsem smrděl. Za sedmé, kdo mne chce teď najít, musí jít do blázince.
 
@@ -1183,11 +1373,15 @@ Tu vstoupil policejní komisař. „Koukejte, pane šéf, ten hnoják říká, �
 
 Co následovalo, nevím, padnuv do mdloby. Teprve k večeru nabyl jsem vědomí. Ležím v krásném pokoji; ale je hned vidět, že to není obyčejný pokoj k obývání. Myšlenky mé jsou zcela kalné. Ale mé bláznění se očividně zmenšilo. Několik osob mne uctivě obsluhuje. Cítím se nemocným, tak nemocným… Bylo hrdinstvím, že jsem tohoto večera tolik toho napsal. Ale teď už nemohu – usínám – – –
 
-  
+</section>
+
+<section>
 
 _12\. května, odpoledne._
 
-  
+</section>
+
+<section>
 
 Spal jsem dlouho; ale měl děsně divoké sny. Teď blázním jen málo; zato blouzním v horečce. A to je, myslím, dobře. Delírování není přece nic jiného než šílení, legitimní šílení. Šílení se v blouznění ztratí. A snad v něm zmizí… S hrůzou vzpomínám na včerejší zakalení své mysli. Bože, jsi přece jen při mně! I to bití včera mně asi prospělo. Aspoň po dobu, co jsem dostával, zmizelo úplně mé třeštění.
 
@@ -1195,11 +1389,15 @@ Ale tělesně je to se mnou zlé. Je mně tak nevolno, tak sláb jsem, zimou se 
 
 Oh, bože, jak to všechno se mnou dopadne? Ale nějaké to bylo, nějaké to bude –
 
-  
+</section>
+
+<section>
 
 _13\. května, pozdě večer._
 
-  
+</section>
+
+<section>
 
 Hodiny říkají pořád tik, tik, až je to opravdu k omrzení; který hloupý ničema vynašel jen to tichošlápské strašidlo? Moji strážci chrápou ve vedlejším pokoji. A to elektrické světlo je také takové podařené strašidlo. Sedím na posteli, ale vstát z ní bych už nedovedl; nějaký dareba mně do nohou a do všech žil nalil rtuť. Trochu blouzním, ale není to teď právě nejhorší. Píšu přece velmi rozumně. O čem psát? Nejraději bych o tom telátku, které se nebojí Daemony majíc černý nos; ale nebylo by to zcela důstojno budoucího císaře německého. Myslíte, že blázním? Prr! Vyklouznu ze šílení jako myš z kalhot, uvidíte!
 
@@ -1247,21 +1445,29 @@ Bůh aby tě skolil, vrabče! Pěknému to generálu svěřil císař životy sv
 
 Ach, ach – klid chci – klid – – věčný klid – –
 
-  
+</section>
+
+<section>
 
 _10\. července._
 
-  
+</section>
+
+<section>
 
 Dnes po prvé jsem vyšel do zahrady sanatoria. Dnes po prvé zas píšu. – Oh, nevěděl jsem dosud, že slunce je vlastně spanilý jinoch, že ta šedivá země jest jen zemí pohádek. Že azur a vzduch lépe opojují než víno! Že šelest listí není nic jiného než nejreálnější, vlídný, jen mně platící šepot milostných, za hmotou čtveračivě schovaných, malých duchů. Nevěděl jsem, co je to pocit volnosti, touha po letu v nekonečno, tetelící se poslední zář blaha. Nic jsem dříve nevěděl. Všemohoucí, nenech mne napříště, jako dosud, dusit se jen pod černou horou utrpení…!
 
 Jako féerický, bílý sen vane kol mne přítomnost, jako modrý sen vlní se vzadu minulost. Bez obláčku je obloha pozdního odpoledne; jako duše má. Ale – přece tam, tam na severu strmí malý modravý mrak, zlověstný, a přece tak sladce přitažlivý. Toť Daemona… Ale dnes se nebojím ani její jméno vyslovit; mysle na ni, jen slzím, tělem prochvívá rozkošný mráz… Bože Vysvoboditeli, dej, ať tento den potrvá věčně. – –
 
-  
+</section>
+
+<section>
 
 _24\. července._
 
-  
+</section>
+
+<section>
 
 Je mně stále velmi dobře. Zítra opustím sanatoř. Kéž by jen bylo mně stejně dobře na svobodě jako zde, ve vězení, třeba růžovém.
 
@@ -1269,11 +1475,15 @@ Od 13. května jsem na Helgu skoro nevzpomněl. Ani v nemoci, ani v rekonvales
 
 Proměnila se mně v paradoxní sen. Už je po něm. I koza musí chcípnout… Odplaveno je všechno mé bláznění. Jsem jako svěží novorozeně…
 
-  
+</section>
+
+<section>
 
 _25\. července._
 
-  
+</section>
+
+<section>
 
 Zase v Sausteinu. Opět slyším z parku rachot pekelných jícnů. Připomíná mi to ji; příliš silně. Proto odjedu hned zítra. Ale Hagen­beckovi píšu o zásobu žiraf, buvolů a hrochů. Kéž by jimi byly ty zlořečené kočky sežrány! – Stále musím zase na ni myslit. Když jsem ležel v deliriích, měl jsem vám o ní takové sny… Blbé ovšem. Povím o nich, pokud dovedu.
 
@@ -1283,11 +1493,15 @@ _Po druhé vidím_, jak Trhan, vysoký jako věž, nese ji za kůži v zátylí
 
 _Po třetí_. „Hellmuthe, muži můj! Milovat tě chci!“ To křičel její hlas z dálek. Za nesmírně dlouhou dobu se objevila. Ale byla to ovce. „Musila jsem se proměnit, abych mohla – –“ A uchopila mně tak nějak svýma podivnýma nožičkama, strhla na zem, – no a teď se to stalo – –
 
-  
+</section>
+
+<section>
 
 _26\. července. Ve vlaku._
 
-  
+</section>
+
+<section>
 
 Neměl jsem včera o těch snech psát. Už zase musím na ni pořád myslit. Hrozivé to není, naopak skoro pěkné, lascivní… Přes to může to být opětný první krok – do starých propastí. – Nesmím na ni ani pomyslit! Každou vteřinu každou myšlenku odhánět! –
 
@@ -1305,11 +1519,15 @@ Bojím se jí nebo si ji přeju…? Ale vždyť jsem si před okamžikem řekl, 
 
 Vše jde krásně, ještě několik dní klidu – a budu zase hýřit, jak nikdo nehýřil! –
 
-  
+</section>
+
+<section>
 
 _31\. července, večer._
 
-  
+</section>
+
+<section>
 
 Bydlím teď v jedné ze svých vil, hned za Berlínem. Krajina je krásná. Plochá jako zrcadlo. Rostlin tam skoro není, neboť půda je tak písčitá, že by mohla sloužit za posypátko. Ale do své širé zahrady dal jsem navézti v tisících vagonech černou hlínu až z Ukrajiny. Všechno v ní roste jako divé. Pěstuju zde, vlastně můj zahradník, mnohé vzácné, exotické byliny. Z toho důvodu mne tu dnes navštívil hrabě P., botanický maniak, takový tichý blázen. Klekne si vám před nějakým obyčejským kvítečkem a pláče nad ním… Chlape zlořečený – – –
 
@@ -1391,11 +1609,15 @@ Nu, jdu tedy s ním, chlapem zblbělým. Ten by byl vzorným svědkem u soudu�
 
 – – – Nechte mne, nechte mne, nebo se zblázním…! Vyházel jsem oknem ze svého pokoje vázy, obrazy, popelníky – všecko a řval při tom, nevím co – – –
 
-  
+</section>
+
+<section>
 
 _5\. srpna._
 
-  
+</section>
+
+<section>
 
 Bydlím teď v jiné své vile. Tu první jsem při odchodu poplival a záhony pošlapal.
 
@@ -1415,21 +1637,29 @@ Drak rozevřel po mně opět svou tlamu. Teď jsem ztracen; nadobro. Cítím se 
 
 Ale k tomu ke všemu zase – pochybnost. – Proč se tak chechtala, když odcházela? Proč mně řekla dvakrát „trulante“? – – Ale pouhá myšlenka je sama příliš trulantská – –
 
-  
+</section>
+
+<section>
 
 _8\. srpna._
 
-  
+</section>
+
+<section>
 
 Blahoslavené světlo dnešního dne! Jsem spasen, definitivně! Stalo se něco úžasného. Umřu snad radostí, – bože, jak jsi milostivý, a já – jaký jsem trulant…!
 
 Více nemohu dnes pro jásot a tanec a smích psát.
 
-  
+</section>
+
+<section>
 
 _9\. srpna._
 
-  
+</section>
+
+<section>
 
 Tak tedy: Po probděné noci kráčím dopoledne polní stezkou, spojující mou vilu s lesíkem. Po dobu svého pobytu zde neodvážil jsem se dosud vyjít z domu; až teprve včera. „Ale půjdeš jen k lesíku,“ řekl jsem si. Odjakživa jsem se lesů hrozně bál; a má hrůza se zmnohonásobila od onoho prosincového dne, kdy jsem spatřil Daemonu na lavičce…
 
@@ -1549,11 +1779,15 @@ Hajhaj! 5000 marek ročně, pane na nebesích! Tak to tedy zbylo ze všech těch
 
 Jsem blažen, že jsem z toho blázen, jsem bůh, jsem bůh – – –
 
-  
+</section>
+
+<section>
 
 _12\. srpna._
 
-  
+</section>
+
+<section>
 
 V Berlíně. Šťasten. Piju zas a líbám a jásám. Ó jaká krása, býti zbaven strašlivé, dusící tíže, s níž si resignovaný člověk už navykl spojovat nerozlučitelně celý svůj život! Kdo tento pocit nepoznal, štěstí nepoznal, nežil.
 
@@ -1561,11 +1795,15 @@ Nechápu jen, ale v smíchu teď, jak jsem mohl býti tak dlouho tak ohromný b
 
 Zvoní na mne Eulenburg… Krása! Sláva! Chvála budiž Bohu Pře­laskavému a Baccho Liberatori![27](./resources/undefined)
 
-  
+</section>
+
+<section>
 
 _13\. srpna._
 
-  
+</section>
+
+<section>
 
 Jisté pochybnosti počínají pod mou radostí nepěkně hlodat, jako myš pod podlahou… Mám absolutní jistotu, že nebyla posledně zase jenom – strašidlem…? Řekla, že si všechno o tom červeném institutu atd. vylhala; kdo mně za to ručí, že si nevylhala i to všechno, co mně onehdy vyprávěla o svém útěku z hladomorny –…?
 
@@ -1579,11 +1817,15 @@ Než mé myšlenky se vracejí stále k tomu absurdnímu… Je východisko: jí
 
 Zvoní na mne Moltke. – – Proč jen to zakvílelo jako umíráček…?
 
-  
+</section>
+
+<section>
 
 _14\. srpna._
 
-  
+</section>
+
+<section>
 
 Psáno večer. Teď se mně snad zdaří sepsat něco rozumného. Musím však dělat rychle, za chvíli mne zas zavalí ta tma. V ten okamžik jsem neobyčejně světlý, jak to bývá, když je nejtemnější noc polknuta bleskem.
 
@@ -1599,11 +1841,15 @@ Už vím. Do hladomorny! Stůj co stůj to musí být! Cítím určitě: v tom 
 
 Ach – Slone – Lve – že vás nemám…! Mimo vás není psů, není mých přátel na světě; já – váš vrah – pykám za svůj bídný čin – a co – co – noc – lehnout si – –
 
-  
+</section>
+
+<section>
 
 _15\. srpna._
 
-  
+</section>
+
+<section>
 
 Šťastně jsem se dostal do Rattentemplu. Obzvláštní lucida intervalla jsem dnes neměl, ale zato ta má noc nebyla dnes už tak příliš černá…, byla skoro příjemná. Štěkám sice a bučím, koušu trochu a trkám, musím se však při tom stále smát.
 
@@ -1615,21 +1861,29 @@ Ale Ořech! A já jej budu mít, ačkoli Esmeralda bručí. Víte, co jsem dnes
 
 Hurrá! Mám nejvzácnější součást Podex romanu! a to ostatní zaopatří si už má energie – Co – věž – blbost…! Docela jsem na ni zapomněl. Věž – taková konina!
 
-  
+</section>
+
+<section>
 
 _16\. srpna._
 
-  
+</section>
+
+<section>
 
 Dnes jsem rozvinul činnost hodnou Friedricha Velikého. Hned ráno jsem dopsal Hagenbeckovi, aby mně, třeba za miliony, zaslal gorilí slzy. Pak jsem poslal pro sklenáře. „Chlape, dovedeš zhotovit skleněnou past na chytání paprsků planety Aldebaranu?“ houkl jsem naň. „A dodat mně za den pot diamantu? Jsi sklenář, ničemo, sklenáři mají diamanty k řezání skla!“ „Jasnosti, to nedovedu!“ zakoktal. – „Sauhunde,“ zařvu, „a to jsi sklenář? Buďto obé do zítřka dostanu, nebo tě dám císařem vlastnoručně rozčtvrtit a oběsit.“ – „Jasnosti – já to – udělám,“ – breptal, šouraje se ke dveřím, a už vylít.
 
 Tedy i paprsky mám zajištěny. Pak jsem šel hledat lejno zmije na kapradině. V hradní zahradě roste také kapradí pod borovičkami. – A brzo vidím takový bělavý koláček; trochu podobný vrabčímu trusu. Není pochyby, že jsem našel i třetí ingredienci. – Mám lejno zmije, mám žabí brk, Aldebaran zajištěny, – a na toho bych se podíval, kdo by řekl, že budoucí německý císař nedostane od mizerného Hagenbecka gorilí slzy. Hurá! jsem spasen!
 
-  
+</section>
+
+<section>
 
 _17\. srpna._
 
-  
+</section>
+
+<section>
 
 Bože svatý! Jak jsem včera šílel! Otřásám se při vzpomínce na to vše… Jsem střežen. Hlavně ten sklenář mně dodal. Ale netroufají si, otroci, obrátit se na úřady. Obrátili se jistě na mé příbuzenstvo; a to už to udělá. Bylo by to udělalo už dávno, kdybych u Willyho něco neznamenal…
 
@@ -1639,21 +1893,29 @@ Pereat[32](./resources/undefined) Podex romanus! Jediná má záchrana je: _vě�
 
 Jdu tam hned, bez odkladu jdu do věže!
 
-  
+</section>
+
+<section>
 
 _Před půlnocí._
 
-  
+</section>
+
+<section>
 
 Hihihi! Byl jsem tam. Totiž ve věži; v hladomorně ovšem ne, checheche! První dvířka jsem otevřel; ale ta druhá byla tak rezavá a ošklivá, že, dav se do křiku, utíkal jsem, dokud jsem nebyl ve své ložnici.
 
 Teprve za hodinu jsem si vzpomněl, že jsem nechal všechna tajná dvířka otevřena. A, vidíte, jdu a zavřu je všechna. Docela lehce to šlo. Byl jsem jako náměsíčník. Mrzí mne, že jsem tam nevešel. Něco klove, klove…
 
-  
+</section>
+
+<section>
 
 _18\. srpna 1 hodina odpoledne._
 
-  
+</section>
+
+<section>
 
 Ačkoli jsem včera večer zase bláznil, mám dnes od rána lucidum intervallum. Víte proč? Poněvadž jsem pod obraz. Připadl jsem na geniální nápad, klamat všechnu tu holotu kolem sebe tím, že budu stále na mol. Nepříčetnost jako nepříčetnost. Ošidil jsem tím policajty, třeba to můj zadek odsmrděl. Ošidím tím i celou tu svou příbuzenskou gardu bídnou!
 
@@ -1663,11 +1925,15 @@ Jistě bych teď nedošel do věže, ani kdybych – tentononc – planul po n
 
 Ale takhle se tam nedostanu. Nesmím tolik pít. Protože, nic platno, musím tam jít! Podex je blbost. Jenom věž je moudrá – moudrá – a já ožralý – – ospalý amen.
 
-  
+</section>
+
+<section>
 
 _Před půlnocí._
 
-  
+</section>
+
+<section>
 
 Zase luci – lucid – – Ale nejsem pod obraz. Ale také se mně ještě nechce spát. Jenom zvracet musím.
 
@@ -1681,11 +1947,15 @@ Vy mne tam vyléčíte, šílenci! Vytrpte, co já, teprve potom strkejte do mne
 
 Nikdy, já, šílenec, neměl jsem tak jasný rozum, jako v tuto chvíli. Teprve teď stal se ze mne filosof. A to dělá: touha po Tobě, Daemono! Ty nepřirovnatelná! Jediná mezi ženami! Ty Nejnešťastnější…! Jak jsem Tě byl nehoden! Jaká drzost ode mne, učiniti Tebe, chotí mne – mrzáčka…! Pykám za to po právu. Blbý beránek, zaslepen, vzal si za ženu Tygřici – a k tomu hladovou… Nemohlo to jinak dopadnout… – Očisti mne, srovnej mne, povznes mne, Helgo-Daemono! Učiň Lva z beránka! – –[33](./resources/undefined)
 
-  
+</section>
+
+<section>
 
 _19\. srpna 1 hod. v noci._
 
-  
+</section>
+
+<section>
 
 Když jsem v zanícení psal poslední slova, spatřím náhle u stěny – Jej – Jejího. Ruce na prsou zkříženy, ušklíbal se bezstarostně jako nějaký bůh, a při tom, ani dolů nehledě, kopal do jakéhosi těla, pod jeho nohama se svíjejícího, ruce spínajícího. Kopal, valčíkovým rytmem, že to dunělo jako rány do největšího bubnu, až to tělo odkopal ke mně. „Hleď naň, jak je teď krásný!“ zahřměl v tu chvíli. A Ona pohlédla, od temene až k patě jakoby jen z ustydlé krve zhnětená, – vymrštila se, objala mne, líbala – „Ale Ty mne zase za okamžik zvrátíš, mne, ropuchu!“ zaštkal jsem. „Ne – neboť jsi Seraf! a já byla slepá!“ zašeptalo to z ní vznešeně… A – ano! po celou tu dobu plálo za mnou jakési ohromující bílé světlo…, a to, v tento okamžik, zatřesklo jako slunce a pohltilo mne, Ji, Jej! –
 
@@ -1695,11 +1965,15 @@ Jsem přeblažen. Ne už člověk. Šel bych ihned do věže, ale údy nedovolí
 
 Budíček nařídit! Bude to nejlehčí už, jen hračkou už, jen rozkoší už. Jsem Jiný, chci Smrt, neboť chci, ve Věčnosti, Tebe, ó Daemono! – – –
 
-  
+</section>
+
+<section>
 
 _19\. srpna v půl páté ráno._
 
-  
+</section>
+
+<section>
 
 Tři hodiny jsem tvrdě spal. Zázračně čilého probudil mne budíček. Ne již má bývalá, ubohá duše: nebeská moc oživuje mé tělo. Září Jitřenka, zsinalý úsvit východu kalně začíná rudnout.
 
@@ -1774,3 +2048,5 @@ Bože, vím, že milostiv budeš červu Svému! – –
 [32](./resources/undefined) Nechť zhyne. Pozn. red.
 
 [33](./resources/undefined) Zde rozstříknutý inkoust, jako by byla násadka vypadla z ruky na papír.
+
+</section>

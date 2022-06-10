@@ -3,7 +3,7 @@ title: III\.
 contentType: prose
 ---
 
-  
+<section>
 
 Zde se končí zápisky nešťastného, předobrého knížete. Ale možno nám, na základě jeho předsmrtních zmatených a přece zároveň transcendentálně jasných řečí dobře vykonstruovat, co se ve věži stalo. –
 
@@ -160,3 +160,5 @@ To Bohyně poslala i odloženému Oděvu Jeho Svaté Duše poslední, slunečn�
 * * *
 
 [34](./resources/undefined) Jdoucí na smrt. Pozn. red.
+
+</section>
