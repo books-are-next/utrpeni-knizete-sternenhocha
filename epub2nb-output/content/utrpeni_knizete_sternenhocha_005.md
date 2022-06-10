@@ -3,7 +3,7 @@ title: Předmluva
 contentType: prose
 ---
 
-  
+<section>
 
 Z pozůstalosti knížete Sternenhocha, jednoho z předních velmožů říše německé na počátku tohoto století, jenž dozajista byl by se stal nástupcem Bismarckovým v úřadě kancléřském, kdyby Osud nebyl vrhl na jeho cestu mohutnou osobu Helgy-Daemony, dostal se nám do rukou kus jeho deníku. Neváháme s uveřejněním, neboť historie, o níž jedná, je ze všech nám známých jednou z nejpříšernějších a zároveň nejkomičtějších.
 
@@ -14,3 +14,5 @@ A teď předkládáme, bez dalších zbytečných omluv, čtenáři následují
 * * *
 
 [1](./resources/undefined) Čísla stran se vážou k původnímu vydání. Pozn. red.
+
+</section>
