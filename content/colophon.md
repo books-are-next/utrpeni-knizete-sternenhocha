@@ -2,38 +2,16 @@
 title: Tiráž
 ---
 
-<section>  
 **Ladislav Klíma    
 Utrpení knížete Sternenhocha**  
 **Groteskní romaneto**  
-</section>  
-<section>  
-</section>  
-<section>  
 Redakce Jaroslava Bednářová  
-</section>  
-<section>  
 Vydala Městská knihovna v Praze  
-</section>  
-<section>  
 Mariánské nám. 1, 115 72 Praha 1  
-</section>  
-<section>  
 V MKP 2. elektronické vydání  
-</section>  
-<section>  
-</section>  
-<section>  
-</section>  
-<section>  
-</section>  
-<section>  
-</section>  
-1. vydání z 11. 6. 2022.
+1. vydání z 13. 6. 2022.
 
 ***
-
-<section>
 
 Znění tohoto textu vychází z díla [Utrpení knížete Sternenhocha](https://search.mlp.cz/cz/titul/utrpeni-knizete-sternenhocha/30584/#book-content) tak, jak bylo vydáno nakladatelstvím Paseka v Praze v roce 1990. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
@@ -46,10 +24,4 @@ Text díla (Ladislav Klíma: Utrpení knížete Sternenhocha), publikovaného [M
 Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož autorem je Městská knihovna v Praze, podléhá licenci [Creative Commons Uveďte autora-Nevyužívejte dílo komerčně-Zachovejte licenci 3.0 Česko](https://creativecommons.org/licenses/by-nc-sa/3.0/cz/).
 
 
-</section>
-
-<section>
-
 ![](../Images/image004.jpg)
-
-</section>
