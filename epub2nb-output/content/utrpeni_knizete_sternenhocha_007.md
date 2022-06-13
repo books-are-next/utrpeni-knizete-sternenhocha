@@ -641,7 +641,7 @@ Je půlnoc. Óh, jakou práci dalo sepsat tyto řádky! Jsem blázen… Huhu, bu
 
 Moji věrní služebníci mne střeží, aby mne dali zítra do blázince. Je tu nejen má teta, i celý houf drahých příbuzných, mých dědiců. Ale přepočítáte se, halamové hladoví! Svým universálním dědicem činím tímto, jsouce při plném rozumu a svědomí, mého černého kocourka od včíra. –
 
-                               Signováno
+            Signováno
 
 Moje Jasnost kníže Hellmuth Sternenhoch,  
 t. č. králík a blázen.
@@ -1010,7 +1010,7 @@ A pak se jeho obličej vyjasnil už definitivně. A jako obyčejně, když je 
 > lass uns recht froh und fröhlich sein!  
 > In’s weiche Bett legen wir neder  
 > – e – e – uns wieder  
->                                 (nein, besser:)  
+>             (nein, besser:)  
 > uns’re arg erschöpften Glieder.  
 > ’s ist besser, in den A – zu f – –,  
 > als an der Politik ersticken!  
@@ -1021,7 +1021,7 @@ A pak se jeho obličej vyjasnil už definitivně. A jako obyčejně, když je 
 > Fotografien, – die – mir – eigen,  
 > im Lauf von letzten drei Monaten  
 > jemacht – – e – e von fotografierenden – –  
->                                                                     Ratten…
+>             Ratten…
 
 „Hellmutku, viděl jsi takového improvizátora?“ dodal poté, zčervenalý námahou a snad i panickým studem.
 
