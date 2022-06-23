@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "klima-utrpeni-knizete-sternenhocha-7db1673",
-  "revision": "7db1673",
+  "identifier": "klima-utrpeni-knizete-sternenhocha-22d5670",
+  "revision": "22d5670",
   "readingOrder": [
     "promo.html",
     "utrpeni_knizete_sternenhocha_005.html",
@@ -19,8 +19,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Wed Jun 15 2022 05:58:52 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655272732809
+    "date": "Thu Jun 23 2022 10:31:21 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655980281685
   },
   "documents": [
     {
