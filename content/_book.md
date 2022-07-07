@@ -19,7 +19,7 @@ readingOrder:
   - utrpeni_knizete_sternenhocha_006.html
   - utrpeni_knizete_sternenhocha_007.html
   - utrpeni_knizete_sternenhocha_008.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
