@@ -63,7 +63,7 @@ _27\. října._
 
 Stalo se něco hrůzného, nemyslitelného, nemožného. Ještě teď se mně ježí vlasy. Uzřel jsem – Ji…! Bylo to včera na dvorním plese. Unaven tancem, hudbou, hemžením lidí ubíral jsem se, abych se rozptýlil, o půlnoci ze sálu řadou pokojů, dál a dále od něho se táhnoucích. Třináct je jich. Znáte divný pocit, který se člověka zmocňuje, vzdaluje-li se takto od oslnivě zářícího, tisíci hlasů šumícího, hudbou bouřícího sálu, stále více a více? Příšerně slábnou zvuky, méně a méně lidí zříte kolem sebe v komnatách, ustavičně menších a menších, záhadná pustota roste a roste, konečně je hudba již sotva slyšitelná, a zdá se vám, že jste zapadli do strašidelného světa, do komnat čarodějových, hemžících se neviditelnými duchy…
 
-Desátý pokoj byl už docela prázdný. Dveře do jedenáctého byly zavřeny. Stiskl jsem kliku, otevřely se, – zazněly dva zděšené výkřiky, – a co jsem spatřil? Na pohovce seděl admirál von M., maje dámský klobouk na plešaté lebce, a choval na klíně Jeho Excelenci pana ministra války, pohrávajícího si s krajkovým dámským kapesníkem. Vymrštili se, bílí jako papír, a nohy se jim chvěly tak, že klesali na kolena. „Ach, ach, ach!“ zaskučel konečně admirál. „Jaké štěstí, že jste to jenom vy, Jasnosti! A přisahal bych, že jsem dveře zamkl na klíč!“ „Boží milost byla s námi!“ zajektal zuby ministr a bleskurychle zamkl dveře na klíč. „Pojďte laskavě do kroužku, mon prince!“ zval mne admirál. „Tres faciunt collegium.“[8](./resources/undefined) Já, v zamyšlení svém nevěnuje jim ani pozornosti, učinil jsem jen pyšné, odmítavé gesto a šel dále. „Náš kníže dumá a bádá,“ slyšel jsem za sebou uctivý pološept, – vědíť, chlapi, co u císaře znamenám; „je velký myslitel, druhý Kant…“ Vstoupil jsem do pokoje dvanáctého, prázdného. Stanuv u okna, zahledím se do příšerné hvězdné noci; duchově odbíjela z věže půlnoc… Trhnul jsem sebou prudce, jako ze spaní vyrušen, a zamířil do třináctého, posledního pokoje. Hrobové ticho, něco hrozného valilo se na mne; ale jsa jakoby narkotisován, umínil jsem si, z pedantického vrtochu, že musím dojít až na konec nejzazší komnaty, která byla slepá, – která mne vždy, kdykoliv jsem ji dříve navštívil, plnila mystickým strachem. Otevřu dveře do ní – – přede mnou stojí Helga. Nikdo jiný mimo ni. Nebudu líčit její pohled na mne, neboť nemohu… Klesl jsem a zůstal sedět na prahu; dlouho-li, krátko-li, nevím; z vědomí mého zůstala jen černá kola, zaplavivší příšerně celý pokoj a ji… – Konečně jsem pocítil tlak na rameno – a rozeznal ministra a admirála. „Jesus Maria, co zde Jasnost tropí?“ zalomil rukama ministr. Zdvihl jsem se pomalu, a nejsa dosud při rozumu, ubíral jsem se nazpět. „Ach! rozumím!“ zašeptal za mnou poníženě admirál, plácnuv se do čela. „Sokrates, napadl-li jej nějaký problém, zůstal po celé hodiny stát jako socha, ať to bylo, kde bylo, třeba na žebříku nebo na veřejném místečku; ale náš kníže je ještě moudřejší: on si při tom pohodlně sedne!“ – Teprve v sále rozpomněl jsem se jasně, co jsem to vlastně uzřel. V průvodu dvou přátel procházel jsem dlouho celou společností, – nikde tváře, Jí podobné. Odebral jsem se s nimi až do třináctého pokoje, – nikde stopy po ní! Ministr a admirál nespatřili nikoho. Okny posledních dvou pokojů uniknout nemohla: bylať všechna zavřena zvnitřku. Zmizela snad v nějaké tajné chodbě ve zdi? či prosoukala se klíčovou dírkou – – ale co to mluvím – jako šílenec a hrůza – mlčet musím… –
+Desátý pokoj byl už docela prázdný. Dveře do jedenáctého byly zavřeny. Stiskl jsem kliku, otevřely se, – zazněly dva zděšené výkřiky, – a co jsem spatřil? Na pohovce seděl admirál von M., maje dámský klobouk na plešaté lebce, a choval na klíně Jeho Excelenci pana ministra války, pohrávajícího si s krajkovým dámským kapesníkem. Vymrštili se, bílí jako papír, a nohy se jim chvěly tak, že klesali na kolena. „Ach, ach, ach!“ zaskučel konečně admirál. „Jaké štěstí, že jste to jenom vy, Jasnosti! A přisahal bych, že jsem dveře zamkl na klíč!“ „Boží milost byla s námi!“ zajektal zuby ministr a bleskurychle zamkl dveře na klíč. „Pojďte laskavě do kroužku, mon prince!“ zval mne admirál. „Tres faciunt collegium.“[^8] Já, v zamyšlení svém nevěnuje jim ani pozornosti, učinil jsem jen pyšné, odmítavé gesto a šel dále. „Náš kníže dumá a bádá,“ slyšel jsem za sebou uctivý pološept, – vědíť, chlapi, co u císaře znamenám; „je velký myslitel, druhý Kant…“ Vstoupil jsem do pokoje dvanáctého, prázdného. Stanuv u okna, zahledím se do příšerné hvězdné noci; duchově odbíjela z věže půlnoc… Trhnul jsem sebou prudce, jako ze spaní vyrušen, a zamířil do třináctého, posledního pokoje. Hrobové ticho, něco hrozného valilo se na mne; ale jsa jakoby narkotisován, umínil jsem si, z pedantického vrtochu, že musím dojít až na konec nejzazší komnaty, která byla slepá, – která mne vždy, kdykoliv jsem ji dříve navštívil, plnila mystickým strachem. Otevřu dveře do ní – – přede mnou stojí Helga. Nikdo jiný mimo ni. Nebudu líčit její pohled na mne, neboť nemohu… Klesl jsem a zůstal sedět na prahu; dlouho-li, krátko-li, nevím; z vědomí mého zůstala jen černá kola, zaplavivší příšerně celý pokoj a ji… – Konečně jsem pocítil tlak na rameno – a rozeznal ministra a admirála. „Jesus Maria, co zde Jasnost tropí?“ zalomil rukama ministr. Zdvihl jsem se pomalu, a nejsa dosud při rozumu, ubíral jsem se nazpět. „Ach! rozumím!“ zašeptal za mnou poníženě admirál, plácnuv se do čela. „Sokrates, napadl-li jej nějaký problém, zůstal po celé hodiny stát jako socha, ať to bylo, kde bylo, třeba na žebříku nebo na veřejném místečku; ale náš kníže je ještě moudřejší: on si při tom pohodlně sedne!“ – Teprve v sále rozpomněl jsem se jasně, co jsem to vlastně uzřel. V průvodu dvou přátel procházel jsem dlouho celou společností, – nikde tváře, Jí podobné. Odebral jsem se s nimi až do třináctého pokoje, – nikde stopy po ní! Ministr a admirál nespatřili nikoho. Okny posledních dvou pokojů uniknout nemohla: bylať všechna zavřena zvnitřku. Zmizela snad v nějaké tajné chodbě ve zdi? či prosoukala se klíčovou dírkou – – ale co to mluvím – jako šílenec a hrůza – mlčet musím… –
 
 </section>
 
@@ -223,7 +223,7 @@ _Téhož dne pozdě večer._
 
 Odpoledne jsem se šel umýt do malé hradní koupelny. Jsem jist, že mimo mne, vanu a lampu tam nebylo nic. Mnu si oči, do nichž mně natekla voda, – náhle se něco před vanou míhá – popatřím ostře – Daemona stojí tam, zcela určitá, bílá, strašlivá. Omdlel jsem. Přišed opět k sobě, neviděl jsem ji už, ale shledal jsem, že dveře jsou zevnitř zamčeny na závoru. – –
 
-Teď je jisto, že je přízrakem. Nemusím tam chodit. To mně ulevilo. Ale proboha, jak mohl ten přízrak z koupelny štěbetat o poledni na promenádě s gigrletem[9](./resources/undefined)?
+Teď je jisto, že je přízrakem. Nemusím tam chodit. To mně ulevilo. Ale proboha, jak mohl ten přízrak z koupelny štěbetat o poledni na promenádě s gigrletem[^9]?
 
 Ne, ne, teď je nutnější než kdy dříve, jít se přesvědčit. Mám prostou volbu: věž – nebo smrt v šílenství.
 
@@ -656,7 +656,7 @@ _28\. ledna._
 
 <section>
 
-Jak jsem tušil, měl heroický osmý leden veliký účinek. Onemocněl jsem vážně, řadu dní byl jsem bez vědomí nebo v deliriu. To zapudilo šílenství, které jižjiž hrozilo si mne podmanit. Když jsem opět přišel k jasnému vědomí, bylo šílení fuč. Ale i poté: vysílenost – stálé líbezné snění a ty všechny krásné myšlenky, které provázejí vždy nemoc a rekonvalescenci, radost, že se uzdravuju – to vše způsobilo, že jsem na Daemonu ani nemyslil. Ajta! teď teprve začínám vnikat do mystérií lékařské vědy, jako Friedrich Veliký vnikl do tajemství strategie teprve potom, když byl bit. K tomu tedy cílil Učenec: abych těžce onemocněl a tím se uzdravil. Geniální myšlenka: přemáhat nemoc nemocí; similia similibus curare[10](./resources/undefined).
+Jak jsem tušil, měl heroický osmý leden veliký účinek. Onemocněl jsem vážně, řadu dní byl jsem bez vědomí nebo v deliriu. To zapudilo šílenství, které jižjiž hrozilo si mne podmanit. Když jsem opět přišel k jasnému vědomí, bylo šílení fuč. Ale i poté: vysílenost – stálé líbezné snění a ty všechny krásné myšlenky, které provázejí vždy nemoc a rekonvalescenci, radost, že se uzdravuju – to vše způsobilo, že jsem na Daemonu ani nemyslil. Ajta! teď teprve začínám vnikat do mystérií lékařské vědy, jako Friedrich Veliký vnikl do tajemství strategie teprve potom, když byl bit. K tomu tedy cílil Učenec: abych těžce onemocněl a tím se uzdravil. Geniální myšlenka: přemáhat nemoc nemocí; similia similibus curare[^10].
 
 Jen o to jde, budou-li blahodárné účinky mé nemoci trvat i pak, až budu zcela zdráv. Neboť cítím, že ještě jednu podobnou léčbu nemocí bych nevydržel.
 
@@ -728,7 +728,7 @@ _7\. února._
 
 Tak jsem byl u ní. Opět inkognito, ošumělý předpecký. Spatřil jsem ženu 45letou, vysokou, s klasickým, přísným, přímo velebným obličejem; jaký kontrast proti blbému špalku Wechsebalgovi! I jí mluvil jsem o zfackovaném slaďákovi. „Ó, snadná pomoc, vzácný pane!“ zvolala se svatým přesvědčením v hlase; „budete rázem vyléčen, – avšak – avšak bude to stát mnoho peněz…“ „Mnoho-li?“ „Ach – – 15 marek!“ – „Tak mnoho? Ježíši, kde je seberu?“ – „No, vzácný pane – z lásky k bližnímu vám to udělám za 12 marek…“ – „Za 10 by to nešlo…?“ – „Nuže – ve jménu Páně, za 10! A teď zajásejte, pane! Jakože slunce zemi oblažuje, pozbude pekelná moc moci své nad vámi! Všemohoucí je prostředek můj!“
 
-A přinesla ze skříně obyčejný ořech, obtočený režnou nití. „V tom­to ořechu jsou, vaše blahorodí, látky tajemné, převzácné, jakých nerodí země naše. Jest zde lejno zmije, které v háji borovém v lednu svět spatřilo, na květ kapradiny vyměšeno byvši. Dále slza gorilí. Item diamantu pot, než v úzkosti smrtelné, v horku přenáramném vzplanouc, do slunce, svého lůna mateřského, nazpět padne. Konečně rudé Aldebaránu planety paprsky, do skleněné chycené pasti. Vše to provanuto dechem panny, která již 13 dětí porodivše, aniž muž se jí dotknouce. Hlavně však pírko zde jest z žáby, krásné jako úsměv děvy vyrostlé, což stává se jen jednou za století; třikrát, čtyřikrát blažen, kdo najde je právě v okamžik, kdy žába vytrousí je, kdo, zdvihnuvše je, políbení mu ihned dá; ten největší hostí poklad světa. – Ořech tento divotvorný, jehožto jméno Podex romanus[11](./resources/undefined) se zove, musíte nositi stále na srdci svém a nikdy do vnitra jeho podívat se nesmíte, jinak by látky v něm moci své zázračné pozbyly a vy přetěžce pykal za hříšnou zvědavost a nevěru svou. Neboť jen víra činí blaženým, nevěra všezáhubný princip jest, víra pouze to jest, která léčí, o čemž však učenci tušení nemají. – A zmocní-li se vás někdy přes talisman tento strach, říkejte si jen stále hlasitě: ‚Strašidlo, do prd – – e mně vskoč!‘ Nezmizí-li vzdor tomu strach váš, křičte tato slova stále hlasitěji; nepomůže-li ani to, řvete je, až se dům bude otřásat. – Jste spasen, pane!“
+A přinesla ze skříně obyčejný ořech, obtočený režnou nití. „V tom­to ořechu jsou, vaše blahorodí, látky tajemné, převzácné, jakých nerodí země naše. Jest zde lejno zmije, které v háji borovém v lednu svět spatřilo, na květ kapradiny vyměšeno byvši. Dále slza gorilí. Item diamantu pot, než v úzkosti smrtelné, v horku přenáramném vzplanouc, do slunce, svého lůna mateřského, nazpět padne. Konečně rudé Aldebaránu planety paprsky, do skleněné chycené pasti. Vše to provanuto dechem panny, která již 13 dětí porodivše, aniž muž se jí dotknouce. Hlavně však pírko zde jest z žáby, krásné jako úsměv děvy vyrostlé, což stává se jen jednou za století; třikrát, čtyřikrát blažen, kdo najde je právě v okamžik, kdy žába vytrousí je, kdo, zdvihnuvše je, políbení mu ihned dá; ten největší hostí poklad světa. – Ořech tento divotvorný, jehožto jméno Podex romanus[^11] se zove, musíte nositi stále na srdci svém a nikdy do vnitra jeho podívat se nesmíte, jinak by látky v něm moci své zázračné pozbyly a vy přetěžce pykal za hříšnou zvědavost a nevěru svou. Neboť jen víra činí blaženým, nevěra všezáhubný princip jest, víra pouze to jest, která léčí, o čemž však učenci tušení nemají. – A zmocní-li se vás někdy přes talisman tento strach, říkejte si jen stále hlasitě: ‚Strašidlo, do prd – – e mně vskoč!‘ Nezmizí-li vzdor tomu strach váš, křičte tato slova stále hlasitěji; nepomůže-li ani to, řvete je, až se dům bude otřásat. – Jste spasen, pane!“
 
 Mluvila tak energicky a velebně, že jsem z plna srdce nábožně uvěřil; vznešeně bylo mně v duši. Zavěsiv talisman na hrdlo a zaplativ místo 10 sto marek, letěl jsem domů vyzývaje všechna strašidla na souboj.
 
@@ -832,7 +832,7 @@ Ale vzmužila se rázem. „Fuj! Nezlomilo mne to a nezlomí! Zů­stanu, hrdě
 
 „Zavraždila jsi spoustu lidí, dokonce i své dítě a svého otce!“
 
-„Bagatelles! Všedění není nic jiného než vraždění, vraždění totéž, co rodění. Zabít člověka je totéž a méně, než zabít myšlenku. Zabiju-li myšlenku, mohlo se to stát jen tím, že jsem jinou, silnější, tj. vyšší dosadila na její místo; co je to poznávání? Jen zabíjení in rebus psychicis[12](./resources/undefined). Stejně, zabiju-li živou bytost, eo ipso[13](./resources/undefined) umožnila jsem život jiné: uprázdnila jsem místo, kam se vývoj řítí se stejnou nutností, jako vzduch do vzduchoprázdné prostory. ‚Vražda‘: nic jiného než idiotský, prazbabělý sociální předsudek. Nevytýkám si, že jsem zabila mnoho lidí, ale to, že jsem jich zabila příliš málo; a pak – – že jsem je zabíjela z pohnutek, ne vždy právě božských…; a zde je kořen mého zla – – Dříve jsem ovšem věřila v první slabošskosti svého snu, že mne někdo za cosi trestá; avšak později mi vysvitlo, že pojem trest nemá nejmenšího smyslu vzhledem ke mně, která chci vše nejhroznější, protože chci Vše, vidouc ve všem jen Svou Věčnou Záři; může Bůh býti trestán…? Ale přece jen bych ráda věděla, proč právě nyní jsem navštěvována nejpodivnějšími ze snů… Slouží asi tomu, aby mne připravily, zesílily pro nesmírné úkoly, které jsem si uložila. S Ním… Ale nevídám ho teď nikdy; a to je to nejhorší… Avšak jen myšlenka naň udržela mne nezlomenu. Pane kníže, špehoval jste nás tenkrát na pahorku, znáte jej, nezapírejte! Můžete mně o něm říci něco nového?“
+„Bagatelles! Všedění není nic jiného než vraždění, vraždění totéž, co rodění. Zabít člověka je totéž a méně, než zabít myšlenku. Zabiju-li myšlenku, mohlo se to stát jen tím, že jsem jinou, silnější, tj. vyšší dosadila na její místo; co je to poznávání? Jen zabíjení in rebus psychicis[^12]. Stejně, zabiju-li živou bytost, eo ipso[^13] umožnila jsem život jiné: uprázdnila jsem místo, kam se vývoj řítí se stejnou nutností, jako vzduch do vzduchoprázdné prostory. ‚Vražda‘: nic jiného než idiotský, prazbabělý sociální předsudek. Nevytýkám si, že jsem zabila mnoho lidí, ale to, že jsem jich zabila příliš málo; a pak – – že jsem je zabíjela z pohnutek, ne vždy právě božských…; a zde je kořen mého zla – – Dříve jsem ovšem věřila v první slabošskosti svého snu, že mne někdo za cosi trestá; avšak později mi vysvitlo, že pojem trest nemá nejmenšího smyslu vzhledem ke mně, která chci vše nejhroznější, protože chci Vše, vidouc ve všem jen Svou Věčnou Záři; může Bůh býti trestán…? Ale přece jen bych ráda věděla, proč právě nyní jsem navštěvována nejpodivnějšími ze snů… Slouží asi tomu, aby mne připravily, zesílily pro nesmírné úkoly, které jsem si uložila. S Ním… Ale nevídám ho teď nikdy; a to je to nejhorší… Avšak jen myšlenka naň udržela mne nezlomenu. Pane kníže, špehoval jste nás tenkrát na pahorku, znáte jej, nezapírejte! Můžete mně o něm říci něco nového?“
 
 „Já – já – nevím nic, vlastně vím. Vede se mu dobře. Ztloustl, je jako mazanec. A – a – dbá teď více na sebe. Vždyť to byla, milá Helgo, ostuda pro tebe, ty jeho francle na kalhotách. Já ho budu podporovat, chceš?“
 
@@ -958,7 +958,7 @@ _10\. dubna._
 
 <section>
 
-Tak jsem se tam konečně dostal; odpoledne jsem obdržel suché pozvání k večeři. Třásl jsem se, vystupuje po schodech paláce. Komorník ohlásil můj příchod. Skoro vzápětí zazněla hudba – sit venia verbo[14](./resources/undefined)! Lze prý poznat každého velkého komponistu dle hluboké svéráznosti jeho muziky. Je-li tomu tak, pak je Wilhelm II. jistojistě největší ze všech: i člověk tak nemuzikální jako já pozná podle absolutní nemelodičnosti a neharmoničnosti, za okamžik, že to „složil“ On. Nemelodičnost a neharmoničnost jsou sice vlastnosti všech moderních skladeb; ale kdežto jinde nemají skladby s melodií a harmonií prostě co činit, jsou komposice císařovy nejfrapantnějším jejich _opakem_; jinde je to poměr barvy bílé a červené, u císaře bílé a černé.
+Tak jsem se tam konečně dostal; odpoledne jsem obdržel suché pozvání k večeři. Třásl jsem se, vystupuje po schodech paláce. Komorník ohlásil můj příchod. Skoro vzápětí zazněla hudba – sit venia verbo[^14]! Lze prý poznat každého velkého komponistu dle hluboké svéráznosti jeho muziky. Je-li tomu tak, pak je Wilhelm II. jistojistě největší ze všech: i člověk tak nemuzikální jako já pozná podle absolutní nemelodičnosti a neharmoničnosti, za okamžik, že to „složil“ On. Nemelodičnost a neharmoničnost jsou sice vlastnosti všech moderních skladeb; ale kdežto jinde nemají skladby s melodií a harmonií prostě co činit, jsou komposice císařovy nejfrapantnějším jejich _opakem_; jinde je to poměr barvy bílé a červené, u císaře bílé a černé.
 
 Tato skladba měla být vítacími, mé maličkosti platícími fanfárami. Otevřely se dveře, vešel jsem, – hudba zmlkla. Vzápětí však zazněla ze sousední síně celým operním ensemblem zpívaná píseň, začínající slovy: „Hoj, hoj do prd – – e, hoj, hoj do prd – – e, do prd – – e skoč!“ Nesporně byl i text duševním dítětem zeměpánovým.
 
@@ -968,7 +968,7 @@ A On sám stál přede mnou; sraziv nohy dohromady, zasalutoval přede mnou, se
 
 Pohlédl jsem, kam ukazoval, a spatřil aspoň desetihektolitrový kotel, plný bobů, kapusty, mrkve atd. v tekutině bělavě zelenavé barvy. Vedle stála vana plná vody, vedle ní špalek, polena, sekera, láhve a krabice plné doutníků.
 
-„Heil dir im Siegeskranz[15](./resources/undefined), největší hrdino germánský, Arminie II.!“ pokračoval monarcha. „Celý obsah kotle náleží tobě, a jsme pevně přesvědčeni, že ještě dnes jej zpucneš! A prosí tě caesar, a Augusta, jak se na poslušnou choť sluší, doprovází prosbu Jeho, třeba žárlíc nemá tě v přílišné oblibě, – abys, ovšem v koupacím oděvu, kterého se ti dostane, vešel do vany a reprodukoval nám všechny originelní činy, které jsi onoho věkopamátného lednového dne v své zahradě vykonal!“
+„Heil dir im Siegeskranz[^15], největší hrdino germánský, Arminie II.!“ pokračoval monarcha. „Celý obsah kotle náleží tobě, a jsme pevně přesvědčeni, že ještě dnes jej zpucneš! A prosí tě caesar, a Augusta, jak se na poslušnou choť sluší, doprovází prosbu Jeho, třeba žárlíc nemá tě v přílišné oblibě, – abys, ovšem v koupacím oděvu, kterého se ti dostane, vešel do vany a reprodukoval nám všechny originelní činy, které jsi onoho věkopamátného lednového dne v své zahradě vykonal!“
 
 Nebylo zbytí. Navlekl jsem plavky, vlezl do vody, bohudíky tentokrát teplé, a v přítomnosti obou Veličenstev, princezen, princů, nejvyšších hodnostářů, za zvuků dalších strof císařovy písně, žral jsem z kotle, současně štípaje dříví, křiče hip, hip, hurá! roztřískávaje láhve s alkoholem a krabice s cigáry…
 
@@ -976,17 +976,17 @@ Než nemám dnes čas šířit se o tom, co vše se při hostině dělo; snad j
 
 Octl jsem se v císařově ložnici. A tu on, dříve nadmíru veselý, náhle se příšerně zachmuřil a zhroutil na fotel. Kleknuv před něj objal jsem jeho kolena. Energicky mne odstrčil a uchopiv se za lebku, viklal jí zuřivě, jako by ji chtěl odtrhnout od trupu a odhodit jako bezcenný brak. Pak se počal ohánět rukama, jako by zaplašoval moskyty od svého čela. Potom vyskočil, rozepjal náruč směrem k východu – poté k jihu – načež k severu a zařvav klesl zase na fotel, a dívaje se – jako i dříve – stále na sebe do zrcadla, mluvil:
 
-„Pryč, vy stíny, jež oblétáte skráň caesara! Zmizte černé starosti, pod jejichž tíhou klesá i moje nekonečná síla! Oh! těžké chmury valí se odevšad na Říši, Bohem v léno mně danou! Jak jsem dříve v svých prorockých extasích tušil, jak nyní na základě positivních informací fakticky vím, čínští boxeři pomýšlejí na dobytí, podmanění, zničení Mého dědictví. Denně se dovídám, že se organisují a zbrojí, – proti komu může to čelit než proti Mně? Ó, snad již během tohoto roku zaplaví nivy mé říše nové hordy Džingischánovy, – nemohou Mně odpustit Walderseea, jejž jsem na ně v božském tušení před 12 roky poslal. – A mají spojence, – a to Boery, uražené, že jsem nepřijal Krügra v audienci. Už s nimi uzavřeli spolek na výboj a odboj proti nám, – a pak se k nim připojí i Bemáci. A co nejhoršího, všechny povede Bismarck. Ha! vlastizrádce ohavný…! Čtyři B! To je ominosní…[16](./resources/undefined) Odolá můj chrabrý národ? Óh, tys netušil, Wilhelme Veliký, že ne zlatou, ale trnovou korunu posadils na nešťastnou leb sirého svého vnoučete!“
+„Pryč, vy stíny, jež oblétáte skráň caesara! Zmizte černé starosti, pod jejichž tíhou klesá i moje nekonečná síla! Oh! těžké chmury valí se odevšad na Říši, Bohem v léno mně danou! Jak jsem dříve v svých prorockých extasích tušil, jak nyní na základě positivních informací fakticky vím, čínští boxeři pomýšlejí na dobytí, podmanění, zničení Mého dědictví. Denně se dovídám, že se organisují a zbrojí, – proti komu může to čelit než proti Mně? Ó, snad již během tohoto roku zaplaví nivy mé říše nové hordy Džingischánovy, – nemohou Mně odpustit Walderseea, jejž jsem na ně v božském tušení před 12 roky poslal. – A mají spojence, – a to Boery, uražené, že jsem nepřijal Krügra v audienci. Už s nimi uzavřeli spolek na výboj a odboj proti nám, – a pak se k nim připojí i Bemáci. A co nejhoršího, všechny povede Bismarck. Ha! vlastizrádce ohavný…! Čtyři B! To je ominosní…[^16] Odolá můj chrabrý národ? Óh, tys netušil, Wilhelme Veliký, že ne zlatou, ale trnovou korunu posadils na nešťastnou leb sirého svého vnoučete!“
 
 Zamlčel se. A já si myslil: „Trojka pytlem praštěná byl jsi odjakživa, a teď, jak se zdá, jsi k tomu ještě dočista zblbnul. Co se čínských boxerů týče, řekl mně přece bratr generál, že se jich nemusíme bát, protože nemají žádnou výzbroj, že třeba byli v boxu sebe větší kabrňáci, kampak se s pěstmi hrabou proti našim Tlustým Bertám! Boerové, to je už jiná omáčka; ti ukázali na John Bullovi, že něco dovedou, ti jsou jistě nejnebezpečnějšími nepřáteli naší říše. Ale Bemáci? Stačilo by, kdyby se na ně střílelo z kanonů místo granáty jejich hnusnými švestkovými knedlíky, dala by se do jejich sbírání, holota žravá, přežrala by se jich, servala se o ně a nechala se pak lehounce potlouci a pochytat jako ožralé slepice. Ale co teprve říci tomu Bismarckovi? Je možné, aby německý císař nevěděl, že je ten chlap už mnohá léta mrtev? Či snad má fixní ideu – měl z něho vždy hrozný vítr – že staroch povstane z hrobu jako Barbarossa z Kyffhäuseru?“ A nezdržev se, podotkl jsem:
 
 „Domnívám se nesměrodatně, Veličenstvo, že Bismarcka už dlouho není mezi živými.“
 
-Zakabonil se přísně. „Dixi!“ zvolal, „kdo se odváží hlesnout, kde imperátor tvrdí? Pamatuj si, že vše, co já řeknu, je moudré, proto jen, že já jsem to řekl, třeba to bylo jinak hloupé. Vím, co vím. Německá knížata, cháska vlastizrádná, v dorozumění s nimiž chtěl mne kdysi vsadit do blázince, ukryla jej, živého, kamsi, aby s ním v příhodný okamžik proti mně vyrukovala. Ale quos ego[17](./resources/undefined)!“ zařičel a svým fotelem s námahou mrštil do kouta. „Rozdrceni budete jako tento fotel!“ řval dále, ač křeslo zůstalo neporušeno. „Slabí jste proti mně, trpaslíci vy všichni! Bůh mne i nadál ochrání proti vašemu vzteku, Bůh, který mně byl štítem, když zlopověstná Selma Schnapke mrštila po mém pancéřovém kočáru sekerkou!“
+Zakabonil se přísně. „Dixi!“ zvolal, „kdo se odváží hlesnout, kde imperátor tvrdí? Pamatuj si, že vše, co já řeknu, je moudré, proto jen, že já jsem to řekl, třeba to bylo jinak hloupé. Vím, co vím. Německá knížata, cháska vlastizrádná, v dorozumění s nimiž chtěl mne kdysi vsadit do blázince, ukryla jej, živého, kamsi, aby s ním v příhodný okamžik proti mně vyrukovala. Ale quos ego[^17]!“ zařičel a svým fotelem s námahou mrštil do kouta. „Rozdrceni budete jako tento fotel!“ řval dále, ač křeslo zůstalo neporušeno. „Slabí jste proti mně, trpaslíci vy všichni! Bůh mne i nadál ochrání proti vašemu vzteku, Bůh, který mně byl štítem, když zlopověstná Selma Schnapke mrštila po mém pancéřovém kočáru sekerkou!“
 
 Zdvihl ruce k nebi, pak se hlučně vysmrkal. A mluvil dále:
 
-„K věci! Nutno katastrofě čeliti dříve, než na nás přikvačí. Jen jeden prostředek máme: musíme založit Ligu proti Bebebebe-Gefahr. Tento název stvořil jsem já, a hned dal iniciativu ke stvoření té Ligy. Přemnozí moji manové přispěli k tomu již velkými obnosy. A ty, Hellmutku, budeš, jako vždy, kráčet v čele. Máš asi 800 milionů marek jmění, – neošívej se, přiznal jsi sice jen 300 milionů, abys ošidil erár, – nechvěj se, já, zeměpán – ačkoli mou povinností přede všemi jinými jest, dbát o zachovávání zákonů, chci přimhouřit oči, – buďme k sobě shovívaví, jako k nám otec náš v nebesích shovívavý jest. Nu krátce, když věnuješ 20 milionů na tento posvátný účel, myslím, že to bude bagatelle. Považ, co by se s celým tvým jměním stalo, kdyby Čaočučiao v čele svých hord dobyl Marku braniborskou! Tua res, Romane, agitur![18](./resources/undefined)“
+„K věci! Nutno katastrofě čeliti dříve, než na nás přikvačí. Jen jeden prostředek máme: musíme založit Ligu proti Bebebebe-Gefahr. Tento název stvořil jsem já, a hned dal iniciativu ke stvoření té Ligy. Přemnozí moji manové přispěli k tomu již velkými obnosy. A ty, Hellmutku, budeš, jako vždy, kráčet v čele. Máš asi 800 milionů marek jmění, – neošívej se, přiznal jsi sice jen 300 milionů, abys ošidil erár, – nechvěj se, já, zeměpán – ačkoli mou povinností přede všemi jinými jest, dbát o zachovávání zákonů, chci přimhouřit oči, – buďme k sobě shovívaví, jako k nám otec náš v nebesích shovívavý jest. Nu krátce, když věnuješ 20 milionů na tento posvátný účel, myslím, že to bude bagatelle. Považ, co by se s celým tvým jměním stalo, kdyby Čaočučiao v čele svých hord dobyl Marku braniborskou! Tua res, Romane, agitur![^18]“
 
 „I ty prase!“ pomyslil jsem si. „45 milionů jsi ze mne již vyždímal za to, že – s ohledem na moralitu to nedopovím, – a teď dalších 20 milionů…! Kam to takto dál se mnou povede? Ať si ti, kdož panují, vysávají dělnickou sběř a zvěř, to je v pořádku, jako brát mléko krávě, ale nás aristokraty…? Hned zpočátku jsem věděl, k čemu cílí všechno to jeho cancání. Ta zatracená hohenzollernská lakota, dědičná! Fritz byl ještě horší. – Fricku, s malinkým Pruskem přemohl jsi Evropu, ale tenhle, ‚prý‘ tvůj potomek, s ohromným Německem podlehl by, co by naň přišlo, i samotnému Dánsku. Fricínku, proč jsi plodil ještě děti? Může ten, kdo vystoupil na vrchol Montblancu, stoupat ještě výš? Potomci velkých mužů byli přece skoro vždy úplná prasata… Fricku, co po Tobě přišlo, lejno je! Bismarck, ač není z plemene Hohenzollernů – pouze mystický jejich ocas – je největším neštěstím germánského národa – –“
 
@@ -1004,7 +1004,7 @@ Jakmile vstrčil šek do kapsy, zjasnila se rázem jeho tvář nesmírně. Avša
 
 „Pryč, stíny, skráň mou obletující! – Povelel caesar, – a pryč jsou! Vicit Caesar! A zvítězí s pomocí Boha, Jehož mlýny melou pomalu, všude! Dosti! A nyní chce caesar býti opět jednou také člověkem!“
 
-A pak se jeho obličej vyjasnil už definitivně. A jako obyčejně, když je v dobré náladě, začal improvizovat ve verších:[19](./resources/undefined)
+A pak se jeho obličej vyjasnil už definitivně. A jako obyčejně, když je v dobré náladě, začal improvizovat ve verších:[^19]
 
 > Und nun, Hellmutchen mein,  
 > lass uns recht froh und fröhlich sein!  
@@ -1093,7 +1093,7 @@ Tak teď jsem šťastně zase tam, kde jsem byl před 1. aprilem, když jsem odj
 
 Čeho však nejvíce se děsím, je příšerné faktum, že mnohé pojmy se mně neobyčejně hrozivě pletou. Žádné přirovnání k tomu, co bylo v lednu. A tenkrát bylo moje počínající třeštění následek dlouhotrvajících hrůzných rozrušení a dlouhé řady visionů; teď však stačilo vidění jediné, po době dlouhého klidu a očividného uzdravení, – a jsem v tom hloub než tenkrát. Vězí to už v mém roztříštěném organismu. Padám do propasti, pomalu, ale jistě. Bože můj, což mně není pomoci…?
 
-Mám ovšem Podex romanus; ale ten nemá absolutní moc; musí být doplňován oněmi čarovnými slovy. Mohl jsem jich onoho večera včas použít? Zde nutná pronikavá reforma. Již po onom rencontru[20](./resources/undefined) v parku jsem si předsevzal, že, co živ budu, nevezmu knihu do ruky; přál bych si, aby dodržení každého mého předsevzetí bylo tak málo obtížné, jako je mně dodržení předsevzetí tohoto. Ale kniha – to nestačí. Musím např. vykřikovat své zařikavadlo vždy dříve, než otevřu nějaké dveře; nebo na ulici vždy dříve, než se ohlédnu nazad; nebo, kdykoli bude proti mně kráčet dáma pod závojem, Daemoně postavou podobná. Vůbec musím slova ta mít stále v ústech, neméně často, než slovo „já“. Dnes učinil jsem již začátek: tři dámy pod závojem šly proti mně; já zařval, otočiv se k nim ovšem zády a nahýbaje se ku předu: „Do prd – – e atd.“ Daly mne zjistit strážníkem. Ale i tak je to jistě lepší než Daemona.
+Mám ovšem Podex romanus; ale ten nemá absolutní moc; musí být doplňován oněmi čarovnými slovy. Mohl jsem jich onoho večera včas použít? Zde nutná pronikavá reforma. Již po onom rencontru[^20] v parku jsem si předsevzal, že, co živ budu, nevezmu knihu do ruky; přál bych si, aby dodržení každého mého předsevzetí bylo tak málo obtížné, jako je mně dodržení předsevzetí tohoto. Ale kniha – to nestačí. Musím např. vykřikovat své zařikavadlo vždy dříve, než otevřu nějaké dveře; nebo na ulici vždy dříve, než se ohlédnu nazad; nebo, kdykoli bude proti mně kráčet dáma pod závojem, Daemoně postavou podobná. Vůbec musím slova ta mít stále v ústech, neméně často, než slovo „já“. Dnes učinil jsem již začátek: tři dámy pod závojem šly proti mně; já zařval, otočiv se k nim ovšem zády a nahýbaje se ku předu: „Do prd – – e atd.“ Daly mne zjistit strážníkem. Ale i tak je to jistě lepší než Daemona.
 
 Ale tyto nové disposice mne velice uklidnily; s plnou důvěrou hledím budoucnosti vstříc.
 
@@ -1107,7 +1107,7 @@ _4\. května._
 
 <section>
 
-Lidičky drazí, pro Pána Krista, já vám s ní mluvil zase! V lese, věříte? Vedle mne stál strom. A považte si, ona vám dneska dokonce přijela! V kočáře! A v mužských šatech byla! A v ruce držela bič! Ale mně nenařezala. A kdybyste byli slyšeli její řeči! Nu všecko vypovím, jen si musím dát pozor, abych – nepřeskočil tuhletu krabičku sirek, vlastně, lépe řečeno, abych si nepletl pojmy. Víte, mně se zdá, že tak trošku blázním. Ale to přejde, viďte? Všecko přejde; i koza musí chcípnout. A abyste věděli, nebyla by přijela, kdybych byl vykřikl včas to, co už znáte. Ale když ona vám byla v mužských šatech! Krátký kabátek, těsně přiléhající tenké zelené kalhotky, herdek, měli jste vidět to její bříško a tu její zadnici pod nimi! – Nu tak tedy:[21](./resources/undefined)
+Lidičky drazí, pro Pána Krista, já vám s ní mluvil zase! V lese, věříte? Vedle mne stál strom. A považte si, ona vám dneska dokonce přijela! V kočáře! A v mužských šatech byla! A v ruce držela bič! Ale mně nenařezala. A kdybyste byli slyšeli její řeči! Nu všecko vypovím, jen si musím dát pozor, abych – nepřeskočil tuhletu krabičku sirek, vlastně, lépe řečeno, abych si nepletl pojmy. Víte, mně se zdá, že tak trošku blázním. Ale to přejde, viďte? Všecko přejde; i koza musí chcípnout. A abyste věděli, nebyla by přijela, kdybych byl vykřikl včas to, co už znáte. Ale když ona vám byla v mužských šatech! Krátký kabátek, těsně přiléhající tenké zelené kalhotky, herdek, měli jste vidět to její bříško a tu její zadnici pod nimi! – Nu tak tedy:[^21]
 
 Nuže, vyjeli jsme včera zase s Moltkem jun. a Eulenburgem za Berlín. O jedenácté dopoledne zašli jsme do restaurace v lese, jen tak 200 kroků vzdálené od jeho kraje. Chvilku s nimi sedím, pak cítím tak velký a tak trapný nepokoj, že vstanu, abych se trochu prošel.
 
@@ -1139,7 +1139,7 @@ Zdvihla bičík. Její tvář – slitina tygra a Lucifera. „Avançovala v 
 
 „Ne, ne – Ježišmaria! Já nejsem fantóm, prosím, prosím! To, co jsem v parku povídal, bylo pravda. Zmizela jste najednou z hradu, než jsem přišel s tím doktorem, a spíte v lese. O tom přece není pochyby, nahlédněte to. Ale já dám ihned rozkaz, aby byl ten zlořečený les prohlédnut, já sám budu hledat, Willy mně bude pomáhat a probudíme vás –“
 
-Rozesmála se náhle: „Probudíte mne – k čemu? K tomu vašemu skabiosnímu[22](./resources/undefined) snu? Ten můj je pořád ještě lepší!“
+Rozesmála se náhle: „Probudíte mne – k čemu? K tomu vašemu skabiosnímu[^22] snu? Ten můj je pořád ještě lepší!“
 
 Smála se pojednou tak vesele. Nevíte, jak hřejivě to působilo po jejím dřívějším běsnění. Rozkurážen pravil jsem jí:
 
@@ -1151,7 +1151,7 @@ A právě v tu chvíli cinkalo tak dětsky něžně ze stráně poledne. Znena
 
 „Jsem v povídavé náladě, – řeknu vám, kníže, co se se mnou od března přihodilo. Oh! Oh…! Jaká krása!“ Oči jí zajásaly… A teď si vesele zapálila viržinko – a přihnula si z láhve s bílou tekutinou. Zatřásla se a zaslzela. A já pocítil ostrý zápach 96% lihu… Ona vám ještě za svého živobytí pila nerozředěný špiritus – a ani po smrti té neřesti nezanechala! To je pořádek! To je pořádek!
 
-„Nuže, právě onen den našeho rozhovoru byl velikým mezníkem v mém osudu. Když mne uragan uchvacoval, vštípila jsem si, že _musím_ ve svých mukách vyvolat _Vůli_, vše překonávající, Absolutní, vše pod Sebou vidící; vštípila si i některé, v bdění samozřejmé, ve snu se nevyskytující praktiky jejího vyvolávání. V prvních mučírnách se věc nedařila přes všechno temné, šílené úsilí. Deseti komorami jsem prošla. V jedenácté bylo mé utrpení hroznější než kdykoli dříve. Ale bolest stupňuje duševní činnost do nezměrna. Napjala, ve spojení s nejstrašnějším, nejnásilnějším úsilím celou mou duši tak nevyslovitelně, tak mysticky, že se stal zázrak: vzplanul oheň uprostřed vody! _ve snu_ zazářila světlá, sebevědomá _bdící_ Vůle! ta sebeobjímající, všedrtící, všetvořící, všemohoucí, vševědoucí, – to jádro samé Jsoucnosti. A ráz na ráz vykřesala jsem z jejího sebeobjetí myšlenky: vše, i to nejstrašnější, je pouze plazmatem, absolutní hříčkou Mé Vůle, jen k tomu zde, aby se na tom v nejvyšší nezkalené slasti afirmovala, s tím jen suverénně, násilnicky si pohrávala, věčně jen vítězíc kvůli vítězení; jen dotud, dokud se to nepochopí, existuje pro duši něco hrozivého, existuje utrpení, existuje Zlo; v okamžiku pochopení změní se vše jen v Zář, – nadsluneční uniformní Zář; zmizí všechny jednotlivosti, části, rozdíly, vše se promění v Jedno, věčně neměnné a nehnuté a absolutní; všecky bolesti jsou jen falešnými soudy, záležejícími v omylu, že může něco vůbec škodit; poznej, že ve Věčnosti vše jen prospívá, a každé utrpení se ihned roztaví v bílou slasť, ve věčnou Mou Gloriolu, kterou jen a jen je svět, kterou jen já jsem sama… Nesmírně jasně zazářila tato poznání kat exochen[23](./resources/undefined), doprovázena hromovým třeskotem Nadslasti, – – rázem změnily se i mé tělesné, nejvyšší bolesti v nejvyšší duševní i tělesnou rozkoš, jaké jsem dosud ani netušila. Vše, vše bylo teď Nadzáří, Nadhudbou. Severní pól stal se náhle rovníkem. ‚Nepopsatelné – zde stalo se skutkem!‘
+„Nuže, právě onen den našeho rozhovoru byl velikým mezníkem v mém osudu. Když mne uragan uchvacoval, vštípila jsem si, že _musím_ ve svých mukách vyvolat _Vůli_, vše překonávající, Absolutní, vše pod Sebou vidící; vštípila si i některé, v bdění samozřejmé, ve snu se nevyskytující praktiky jejího vyvolávání. V prvních mučírnách se věc nedařila přes všechno temné, šílené úsilí. Deseti komorami jsem prošla. V jedenácté bylo mé utrpení hroznější než kdykoli dříve. Ale bolest stupňuje duševní činnost do nezměrna. Napjala, ve spojení s nejstrašnějším, nejnásilnějším úsilím celou mou duši tak nevyslovitelně, tak mysticky, že se stal zázrak: vzplanul oheň uprostřed vody! _ve snu_ zazářila světlá, sebevědomá _bdící_ Vůle! ta sebeobjímající, všedrtící, všetvořící, všemohoucí, vševědoucí, – to jádro samé Jsoucnosti. A ráz na ráz vykřesala jsem z jejího sebeobjetí myšlenky: vše, i to nejstrašnější, je pouze plazmatem, absolutní hříčkou Mé Vůle, jen k tomu zde, aby se na tom v nejvyšší nezkalené slasti afirmovala, s tím jen suverénně, násilnicky si pohrávala, věčně jen vítězíc kvůli vítězení; jen dotud, dokud se to nepochopí, existuje pro duši něco hrozivého, existuje utrpení, existuje Zlo; v okamžiku pochopení změní se vše jen v Zář, – nadsluneční uniformní Zář; zmizí všechny jednotlivosti, části, rozdíly, vše se promění v Jedno, věčně neměnné a nehnuté a absolutní; všecky bolesti jsou jen falešnými soudy, záležejícími v omylu, že může něco vůbec škodit; poznej, že ve Věčnosti vše jen prospívá, a každé utrpení se ihned roztaví v bílou slasť, ve věčnou Mou Gloriolu, kterou jen a jen je svět, kterou jen já jsem sama… Nesmírně jasně zazářila tato poznání kat exochen[^23], doprovázena hromovým třeskotem Nadslasti, – – rázem změnily se i mé tělesné, nejvyšší bolesti v nejvyšší duševní i tělesnou rozkoš, jaké jsem dosud ani netušila. Vše, vše bylo teď Nadzáří, Nadhudbou. Severní pól stal se náhle rovníkem. ‚Nepopsatelné – zde stalo se skutkem!‘
 
 Za nastávajícího odlivu tohoto Božího stavu uvědomila jsem si, že nesmírná budova se chvěje jako při zemětřesení, že hlučící stroje a řev odsouzenců zmlkl, – že mučící obludy zoufale křičí, – že jedna z nich mne uchopila a vyhodila oknem ven…
 
@@ -1195,7 +1195,7 @@ Běžela ke kočáru, ale znatelně vrávorala. Nemotorně vylezla na kozlík, a
 
 Náhle, polobezvědomý, sebou trhnu, – něco ze mne padá, cítím údery na rameno. Zdvihnu oči – kníže Eulenburg a Moltke! „Jemináčku!“ zvolal onen. „Co tu, bratříčku můj sladký, tak zkroušeně sedíš? A v ostružinách, chval každý duch Hospodina!“ Zdvihali mne. „Oh,“ sténal Moltke, „tvůj sladký popo je jistě popíchán, – opravdu, na kalhotách je krev! O Willy, Willy, krvavé slzy bys ronil, kdybys to viděl.“
 
-Ale dost! Čtenář už viděl, že jsem blázen; co se ze mne mohlo stát po této strašlivé příhodě? Dokonce i v kočáru vám dnes přijela, nastůjte! viržinko kouřila a špiritus pila, slota jedna! Křesťané dobří, copak to tak beze všeho jde, aby někdo v hladomorně přes půl roku hnil a při tom špiritus chlastal jako kráva? O tempores, o mora![24](./resources/undefined) A mužské šaty měla, trajda! To její bříško, ty její půlky vzadu jste měli vidět! Tenkrát v parku vypadala jako kočka po okocení. Ó ty bříško, které jsem jen jednou ve svatební noci hladil, kdybych byl tenkrát věděl, za jakých okolností tě opět uzřím – – –
+Ale dost! Čtenář už viděl, že jsem blázen; co se ze mne mohlo stát po této strašlivé příhodě? Dokonce i v kočáru vám dnes přijela, nastůjte! viržinko kouřila a špiritus pila, slota jedna! Křesťané dobří, copak to tak beze všeho jde, aby někdo v hladomorně přes půl roku hnil a při tom špiritus chlastal jako kráva? O tempores, o mora![^24] A mužské šaty měla, trajda! To její bříško, ty její půlky vzadu jste měli vidět! Tenkrát v parku vypadala jako kočka po okocení. Ó ty bříško, které jsem jen jednou ve svatební noci hladil, kdybych byl tenkrát věděl, za jakých okolností tě opět uzřím – – –
 
 Je už půlnoc. Zázrak, že jsem to všecko dnes, dnes napsal. Ale to udělal její líh a nic jiného. Opil jsem se jím pod obraz; a to mne zachránilo před úplným zblázněním. Pálil vám mne v krku ještě za pár hodin. Moltke a Eulenburg jej ze mne cítili, pátrali v mých kapsách i v okolí po láhvi, ale nenašli nic. Kroutili hlavou; já jim ovšem neřekl, jak se to stalo… I kdybych já byl chtěl, nebyl by mohl můj zdřevěnělý, spálený jazyk.
 
@@ -1409,7 +1409,7 @@ Zato můj bratr je pouze zdegenerovaným potomkem slavných předků. Je jako pa
 
 Když si se mnou pohovořili, odešli do vedlejší místnosti a debatovali o mně. Tiše, ale já rozuměl každému slovu; mám dnes uši jako osel.
 
-„Pánové,“ řekl tenký, „choroba Jeho Jasnosti je záhadná, vědě dosud neznámá; ale můj bystrozrak odkryl její příčinu a ode dneška obohacena bude psychopatologie o novou nemoc, kterou tímto ihned křtím: Morbus sedatorius doctoris Trottelhundi[25](./resources/undefined). – Nešťastník trpí totiž sedací chorobou: je stále neodolatelně nutkán usednout, ať stojí, kde stojí, a usedl by třeba na řeřavé uhlí, jako usedl strážníkům na dlažbu – do hromady bláta, do ostružin, na práh salonu, atd.“
+„Pánové,“ řekl tenký, „choroba Jeho Jasnosti je záhadná, vědě dosud neznámá; ale můj bystrozrak odkryl její příčinu a ode dneška obohacena bude psychopatologie o novou nemoc, kterou tímto ihned křtím: Morbus sedatorius doctoris Trottelhundi[^25]. – Nešťastník trpí totiž sedací chorobou: je stále neodolatelně nutkán usednout, ať stojí, kde stojí, a usedl by třeba na řeřavé uhlí, jako usedl strážníkům na dlažbu – do hromady bláta, do ostružin, na práh salonu, atd.“
 
 „Inu, má padoucnici!“ vmísil se do řeči strýc.
 
@@ -1471,7 +1471,7 @@ _24\. července._
 
 Je mně stále velmi dobře. Zítra opustím sanatoř. Kéž by jen bylo mně stejně dobře na svobodě jako zde, ve vězení, třeba růžovém.
 
-Od 13. května jsem na Helgu skoro nevzpomněl. Ani v nemoci, ani v rekonvalescenci. Je to merveilleusní[26](./resources/undefined). Vysvětluju to tím, že mne už nepronásleduje; že mne nechala. Nebo že nesmí už z pekla ven.
+Od 13. května jsem na Helgu skoro nevzpomněl. Ani v nemoci, ani v rekonvalescenci. Je to merveilleusní[^26]. Vysvětluju to tím, že mne už nepronásleduje; že mne nechala. Nebo že nesmí už z pekla ven.
 
 Proměnila se mně v paradoxní sen. Už je po něm. I koza musí chcípnout… Odplaveno je všechno mé bláznění. Jsem jako svěží novorozeně…
 
@@ -1793,7 +1793,7 @@ V Berlíně. Šťasten. Piju zas a líbám a jásám. Ó jaká krása, býti 
 
 Nechápu jen, ale v smíchu teď, jak jsem mohl býti tak dlouho tak ohromný blbec. Myslit, že umrlec by mohl pořád a pořád být u člověka na táčkách, ne, ale tohle! Řádné strašidlo má přece aspoň tolik slušnosti, že se najednou vynoří a hned je fuč, jako jiskra, vyskočivší z kamen.
 
-Zvoní na mne Eulenburg… Krása! Sláva! Chvála budiž Bohu Pře­laskavému a Baccho Liberatori![27](./resources/undefined)
+Zvoní na mne Eulenburg… Krása! Sláva! Chvála budiž Bohu Pře­laskavému a Baccho Liberatori![^27]
 
 </section>
 
@@ -1811,7 +1811,7 @@ Všelicos minulého těžko lze vysvětlit – byla-li živá; ale byla-li mrtv
 
 Určitého nevím vlastně zase nic. Je to – děsné faktum… Co příšerného to mnou zatřáslo…? Huhuhu –
 
-Ale to je všechno nesmysl, absolutní. Žije, a mám od ní pokoj na vždycky. Probatum est.[28](./resources/undefined) – Jen to se mně nelíbí, že se z ní stala králíčkářka, spisovatelka a herečka. Je sice chvalitebné, že se místo s jaguáry obírá užitečně s králíky, ale aristokratická passion[29](./resources/undefined) to není. Aspoň koně, psy kdyby chovala! Avšak herečkou chce se stát má choť? A dokonce spisovatelkou? Bože, ochraň mne této hanby! Já to trpět nebudu…!
+Ale to je všechno nesmysl, absolutní. Žije, a mám od ní pokoj na vždycky. Probatum est.[^28] – Jen to se mně nelíbí, že se z ní stala králíčkářka, spisovatelka a herečka. Je sice chvalitebné, že se místo s jaguáry obírá užitečně s králíky, ale aristokratická passion[^29] to není. Aspoň koně, psy kdyby chovala! Avšak herečkou chce se stát má choť? A dokonce spisovatelkou? Bože, ochraň mne této hanby! Já to trpět nebudu…!
 
 Než mé myšlenky se vracejí stále k tomu absurdnímu… Je východisko: jít poznovu do hladomorny. Buď tam uvidím slámu, nebo – – ale na toto „nebo“ nesmím ani pomyslit…
 
@@ -1835,7 +1835,7 @@ To hlavní při tom je: ten strašlivý blesk, ten strašlivý hrom, kterými by
 
 Vše trvalo jen okamžik; ten by však stačil roztrhat alderie a mozky, nezeslabené tak, jako moje. – Zhasl blesk. A když jsem k sobě přišel, jakási nová, neznámá noc ležela nade mnou… Šílenství. Teď teprve, chápu, vskutku mne má – – –
 
-Avšak – snad přece jen není úplně definitivní. Vždyť jsem si ho vědom, aspoň tento okamžik. V té mé noci kmitá se po celý dnešní den malinká hvězdička…; a zazářila dvakrát jako meteor. Vzpomínám si, že se tomu říká lucida intervalla[30](./resources/undefined). Cítím se být, co toto píšu, dokonce jakousi nebývalou září, a rekem, jakým jsem nikdy nebyl. Nil desperandum[31](./resources/undefined); stal jsem se ke všemu, vidíte, i latinářem, jako kluk. Věříte, že jsem se dovedl přetvařovat tak, že na mně nikdo nezpozoroval bláznění? K tomu cíli jsem se po celý den zavřel. Toť důkazem zdravého pudu po sebezachování. Bojujme…! Však, ha! ta noc se valí zase se všech stran na mne. – Sebrat rozum! schovat musím rychle toto lejstro do zdi – – Než – chtěl jsem ještě něco – něco –
+Avšak – snad přece jen není úplně definitivní. Vždyť jsem si ho vědom, aspoň tento okamžik. V té mé noci kmitá se po celý dnešní den malinká hvězdička…; a zazářila dvakrát jako meteor. Vzpomínám si, že se tomu říká lucida intervalla[^30]. Cítím se být, co toto píšu, dokonce jakousi nebývalou září, a rekem, jakým jsem nikdy nebyl. Nil desperandum[^31]; stal jsem se ke všemu, vidíte, i latinářem, jako kluk. Věříte, že jsem se dovedl přetvařovat tak, že na mně nikdo nezpozoroval bláznění? K tomu cíli jsem se po celý den zavřel. Toť důkazem zdravého pudu po sebezachování. Bojujme…! Však, ha! ta noc se valí zase se všech stran na mne. – Sebrat rozum! schovat musím rychle toto lejstro do zdi – – Než – chtěl jsem ještě něco – něco –
 
 Už vím. Do hladomorny! Stůj co stůj to musí být! Cítím určitě: v tom je má spása, ještě teď! Skutečná jistota může mne ještě, do propasti již letícího, zachytit! A jen ona! – Hned zítra do – Ratten­templu!
 
@@ -1889,7 +1889,7 @@ Bože svatý! Jak jsem včera šílel! Otřásám se při vzpomínce na to vše�
 
 Je poledne. Od rána cítím se skoro normálním. A něco nového, tak sladkého, tak nějak bílého se ze mne klove – –
 
-Pereat[32](./resources/undefined) Podex romanus! Jediná má záchrana je: _věž!_ Bude-li tam sláma, vím, že se ze šílenství vyléčím, i kdybych byl v blázinci, ba i kdyby mne léčili nejslavnější psychiatři světa! Najdu-li místo slámy – – něco jiného – – Ať na mne mrtvola skočí! anebo ať mne ta živá, někde tam v koutě se chechtající, rozbodá! Lepší konec s hrůzou, než hrůza bez konce…
+Pereat[^32] Podex romanus! Jediná má záchrana je: _věž!_ Bude-li tam sláma, vím, že se ze šílenství vyléčím, i kdybych byl v blázinci, ba i kdyby mne léčili nejslavnější psychiatři světa! Najdu-li místo slámy – – něco jiného – – Ať na mne mrtvola skočí! anebo ať mne ta živá, někde tam v koutě se chechtající, rozbodá! Lepší konec s hrůzou, než hrůza bez konce…
 
 Jdu tam hned, bez odkladu jdu do věže!
 
@@ -1945,7 +1945,7 @@ Krátce: byl jsem zcela jistě badenskými šlechtici uznán za blázna a zasle
 
 Vy mne tam vyléčíte, šílenci! Vytrpte, co já, teprve potom strkejte do mne své blbé prsty! Je už blbé, mluví-li někdo o alkoholismu, kdo ho sám neprožil do posledního stadia; oč blbější, mluví-li o šílenství ten, kdo k němu ani nepřičichl…!
 
-Nikdy, já, šílenec, neměl jsem tak jasný rozum, jako v tuto chvíli. Teprve teď stal se ze mne filosof. A to dělá: touha po Tobě, Daemono! Ty nepřirovnatelná! Jediná mezi ženami! Ty Nejnešťastnější…! Jak jsem Tě byl nehoden! Jaká drzost ode mne, učiniti Tebe, chotí mne – mrzáčka…! Pykám za to po právu. Blbý beránek, zaslepen, vzal si za ženu Tygřici – a k tomu hladovou… Nemohlo to jinak dopadnout… – Očisti mne, srovnej mne, povznes mne, Helgo-Daemono! Učiň Lva z beránka! – –[33](./resources/undefined)
+Nikdy, já, šílenec, neměl jsem tak jasný rozum, jako v tuto chvíli. Teprve teď stal se ze mne filosof. A to dělá: touha po Tobě, Daemono! Ty nepřirovnatelná! Jediná mezi ženami! Ty Nejnešťastnější…! Jak jsem Tě byl nehoden! Jaká drzost ode mne, učiniti Tebe, chotí mne – mrzáčka…! Pykám za to po právu. Blbý beránek, zaslepen, vzal si za ženu Tygřici – a k tomu hladovou… Nemohlo to jinak dopadnout… – Očisti mne, srovnej mne, povznes mne, Helgo-Daemono! Učiň Lva z beránka! – –[^33]
 
 </section>
 
@@ -1997,56 +1997,56 @@ Bože, vím, že milostiv budeš červu Svému! – –
 
 * * *
 
-[8](./resources/undefined) Tři tvoří spolek. Pozn. red.
+[^8]: Tři tvoří spolek. Pozn. red.
 
-[9](./resources/undefined) Floutek, hejsek. Pozn. red.
+[^9]: Floutek, hejsek. Pozn. red.
 
-[10](./resources/undefined) Similia similibus curantur. – Podobné podobným se léčí. Základní princip homeopatie. Pozn. red.
+[^10]: Similia similibus curantur. – Podobné podobným se léčí. Základní princip homeopatie. Pozn. red.
 
-[11](./resources/undefined) Překlad: římská řiť. Pozn. red.
+[^11]: Překlad: římská řiť. Pozn. red.
 
-[12](./resources/undefined) Při duševních chorobách. Pozn. red.
+[^12]: Při duševních chorobách. Pozn. red.
 
-[13](./resources/undefined) Samotný fakt. Pozn. red.
+[^13]: Samotný fakt. Pozn. red.
 
-[14](./resources/undefined) Budiž dovoleno říci, s dovolením. Pozn. red.
+[^14]: Budiž dovoleno říci, s dovolením. Pozn. red.
 
-[15](./resources/undefined) Buď pozdraven ověnčen vítězstvím. Pozn. red.
+[^15]: Buď pozdraven ověnčen vítězstvím. Pozn. red.
 
-[16](./resources/undefined) Neblahé, zlověstné, osudné. Pozn. red.
+[^16]: Neblahé, zlověstné, osudné. Pozn. red.
 
-[17](./resources/undefined) Kdo jsem. Pozn. red.
+[^17]: Kdo jsem. Pozn. red.
 
-[18](./resources/undefined) Jde o tvou věc, jde o tebe, Římane. Pozn. red.
+[^18]: Jde o tvou věc, jde o tebe, Římane. Pozn. red.
 
-[19](./resources/undefined) Vydavatel těchto memoárů, neuměje rýmovat, podává tuto báseň v originále.
+[^19]: Vydavatel těchto memoárů, neuměje rýmovat, podává tuto báseň v originále.
 
-[20](./resources/undefined) Setkání. Pozn. red.
+[^20]: Setkání. Pozn. red.
 
-[21](./resources/undefined) Zbavujeme následující vyprávění pomatenin, jimiž je protkáno.
+[^21]: Zbavujeme následující vyprávění pomatenin, jimiž je protkáno.
 
-[22](./resources/undefined) Svrabovitému. Pozn. red.
+[^22]: Svrabovitému. Pozn. red.
 
-[23](./resources/undefined) Par exellence, vynikající, především. Pozn. red.
+[^23]: Par exellence, vynikající, především. Pozn. red.
 
-[24](./resources/undefined) O tempora, o mores! Jaká doba, takový mrav! Pozn. red.
+[^24]: O tempora, o mores! Jaká doba, takový mrav! Pozn. red.
 
-[25](./resources/undefined) Sedací choroba doktora Trottelhunda. Pozn. red.
+[^25]: Sedací choroba doktora Trottelhunda. Pozn. red.
 
-[26](./resources/undefined) Báječné. Pozn. red.
+[^26]: Báječné. Pozn. red.
 
-[27](./resources/undefined) Bakchu osvoboditeli. Pozn. red.
+[^27]: Bakchu osvoboditeli. Pozn. red.
 
-[28](./resources/undefined) Je to vyzkoušené, ověřené, schválené. Pozn. red.
+[^28]: Je to vyzkoušené, ověřené, schválené. Pozn. red.
 
-[29](./resources/undefined) Vášeň. Pozn. red.
+[^29]: Vášeň. Pozn. red.
 
-[30](./resources/undefined) Světlé chvilky. Pozn. red.
+[^30]: Světlé chvilky. Pozn. red.
 
-[31](./resources/undefined) Nezoufej. Pozn. red.
+[^31]: Nezoufej. Pozn. red.
 
-[32](./resources/undefined) Nechť zhyne. Pozn. red.
+[^32]: Nechť zhyne. Pozn. red.
 
-[33](./resources/undefined) Zde rozstříknutý inkoust, jako by byla násadka vypadla z ruky na papír.
+[^33]: Zde rozstříknutý inkoust, jako by byla násadka vypadla z ruky na papír.
 
 </section>

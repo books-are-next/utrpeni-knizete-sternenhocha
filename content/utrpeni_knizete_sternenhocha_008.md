@@ -9,7 +9,7 @@ Zde se končí zápisky nešťastného, předobrého knížete. Ale možno nám,
 
 Proplížil se do věže, stoupal po schodech. „Nechal jsem oboje dvířka otevřena,“ vzpomněl si; „vejdou-li do modrého pokoje, mohou ihned za mnou. Ale toť směšně lhostejné; směšné a lhostejné je všechno, Vše.“
 
-Nebudeme se pokoušet, vylíčit blíže jeho duševní stav. Ne snad proto, že by to bylo „neumělecké,“ že by to mělo samo sebou úplně vyplývat z posledních stránek deníku; jen proto, že se to vymyká lidskému, ať uměleckému, ať filosofickému, vědeckému a jakémukoli podání. Umění jest ubohé, jako vše lidské. Možno, ať uměleckým ať jiným způsobem, vyjádřit jen obstojně jen věci nízké, jen věci lidské. Velké Tajemství ne. Kníže ubíral se k Daemoně ve stavu, balancujícím uprostřed Snu a Postmortality; Sen je stavu „bdícímu“ téměř, Posmrtnost vůbec nepojatelna. Sternenhochovo Šílení proměnilo se v Nadšílení, jímž je Věčnost a Vše. Co pozemského, hluboko leželo pod ním. Na okamžik stal se, on, nejubožší, moriturus[34](./resources/undefined), bohem. – A snad na „vždy“. –
+Nebudeme se pokoušet, vylíčit blíže jeho duševní stav. Ne snad proto, že by to bylo „neumělecké,“ že by to mělo samo sebou úplně vyplývat z posledních stránek deníku; jen proto, že se to vymyká lidskému, ať uměleckému, ať filosofickému, vědeckému a jakémukoli podání. Umění jest ubohé, jako vše lidské. Možno, ať uměleckým ať jiným způsobem, vyjádřit jen obstojně jen věci nízké, jen věci lidské. Velké Tajemství ne. Kníže ubíral se k Daemoně ve stavu, balancujícím uprostřed Snu a Postmortality; Sen je stavu „bdícímu“ téměř, Posmrtnost vůbec nepojatelna. Sternenhochovo Šílení proměnilo se v Nadšílení, jímž je Věčnost a Vše. Co pozemského, hluboko leželo pod ním. Na okamžik stal se, on, nejubožší, moriturus[^34], bohem. – A snad na „vždy“. –
 
 Otevřel první dvířka k hladomorně, – pomalu a usmívaje se. Pocítil zápach… „Kouř viržinky,“ děl si; „ten její. Nu ovšem, co jiného bych mohl čekat… Všechno je překrásné. A Ona ve věčnosti jistojistě má. – Pst…! Šustot – odtamtud… Nu ovšem.“
 
@@ -159,6 +159,6 @@ To Bohyně poslala i odloženému Oděvu Jeho Svaté Duše poslední, slunečn�
 
 * * *
 
-[34](./resources/undefined) Jdoucí na smrt. Pozn. red.
+[^34]: Jdoucí na smrt. Pozn. red.
 
 </section>
