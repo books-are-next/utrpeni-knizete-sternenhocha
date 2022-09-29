@@ -11,7 +11,7 @@ Ale přes to, věříte? musil jsem se pořád a pořád po ní dívat… A kd
 
 A od toho dne musil jsem na ni dost myslit. Celé měsíce. Konečně jsem zapomínal, – tu spatřil jsem ji poznovu; zase na šlechtickém plese.
 
-Rozbouřilo mne to přepodivně; slyšel jsem bušení svého srdce. Dlouho jsem byl jako na trní – až konečně jsem ji požádal o tanec. Omlouval jsem se v duchu: „Je to ode mne, předního šlechtice Germanie, majitele 500 milionů marek, prvního rádce a miláčka Vilémova, akt velkomyslnosti, noblesy a vznešené courtoisie[2](./resources/undefined), nabídnouti tanec potomkyni rodu, před stoletími slavného, nyní obskurního, zchudlého, téměř žebráckého,“ jak jsem se právě informoval; „skoro nikdo s ní netančí, každý můj čin pochválí – a ona – jak bude šťastna!“
+Rozbouřilo mne to přepodivně; slyšel jsem bušení svého srdce. Dlouho jsem byl jako na trní – až konečně jsem ji požádal o tanec. Omlouval jsem se v duchu: „Je to ode mne, předního šlechtice Germanie, majitele 500 milionů marek, prvního rádce a miláčka Vilémova, akt velkomyslnosti, noblesy a vznešené courtoisie[^2], nabídnouti tanec potomkyni rodu, před stoletími slavného, nyní obskurního, zchudlého, téměř žebráckého,“ jak jsem se právě informoval; „skoro nikdo s ní netančí, každý můj čin pochválí – a ona – jak bude šťastna!“
 
 Ale neprojevila nižádné radosti. Jako stroj povstala, jako prkenná tančila. Zcela nezvykle zmaten, mluvil jsem málo a hloupě. Nevím, co to bylo, co mně narkoticky vnikalo do rukou z toho kostnatého těla. Po celou dobu tance očí nepozdvihla a jen dvě, tři slova vypravila šedivým, skoro chraptivým hlasem. Když se tanec skončil, stiskl jsem ji pevněji a pronesl jakýsi, tak trochu přioplzlý vtip. Zlehka mne odstrčila, povznesla oči. A teď nebyly již přikryty hořejšími víčky – otevřely se náhle neuvěřitelně, až byly jako kočičí – právě tak zelené, právě tak divé, dravé, strašidelné. Rty, dříve líně na sobě se válející nebo i pootevřené, těsně se semkly, ostrými se staly jako břitva, nos se zúžil, chřípí silně vystouplo a divoce se zavlnilo… Netrvalo to déle než mihnutí blesku; pak beze slova zas odešla – v mrtvolu opět proměněná fúrie – ke své staré, dost nuzně vypadající gardedámě. Myslím, že jsem byl v tuto chvíli stejně bled jako ona. Jaké to jen pocity mnou prochvívaly…? Nebylo to mystické tušení hrůzné budoucnosti…? Pravím: neviděl jsem nikdy dříve tváře aspoň přibližně tak strašné a strašidelné, a nikdy bych nebyl uvěřil, že by se mohla vznítit, jako blesk z temného mraku, tvář tak mrtvolně mdlá, jakou jsem rovněž ni dříve ni později neuzřel.
 
@@ -107,9 +107,9 @@ Za měsíc byla mou chotí.
 
 Jako obětní jehně šla k oltáři; docela tak asi jako loutka, s kterou si hrají děvčátka, počínala si ve svatební noci – – a já, já jako idiot… nechci, nemohu, nesmím to líčit – –
 
-Příštího jitra, když jsem se rozpomněl, měl jsem chuť vzít si život, z hanby, že jsem to udělal… „Snad se změní teď, když je ženou, jak to obyčejně u žen bývá,“ řekl jsem si; ale naopak stávala se teď, možno-li, ještě malátnější, mrtvolnější, hnusnější… Netázána, vůbec nepromluvila, otázána, odpovídala, ale jen tu a tam, jednoslabičně. Želva se nešoupá pomaleji; pohled její nikdo neviděl. Služebnictvu ovšem neporoučela; jako hadrářka chodila oblečena. Zábav se účastnila jen pak, poručil-li jsem jí to; ale v tom případě poslouchala lépe než každé hodiny. Avšak ta representace…! „Sternenhošíčku,“ řekl mně Willy, „ty napodobíš knížete Stavrogina, který, aby budil furore[3](./resources/undefined), pojal za ženu slabomyslnou a hrbatou, jak jsem se dočet v jednom blbém románě od Dostojevského.“
+Příštího jitra, když jsem se rozpomněl, měl jsem chuť vzít si život, z hanby, že jsem to udělal… „Snad se změní teď, když je ženou, jak to obyčejně u žen bývá,“ řekl jsem si; ale naopak stávala se teď, možno-li, ještě malátnější, mrtvolnější, hnusnější… Netázána, vůbec nepromluvila, otázána, odpovídala, ale jen tu a tam, jednoslabičně. Želva se nešoupá pomaleji; pohled její nikdo neviděl. Služebnictvu ovšem neporoučela; jako hadrářka chodila oblečena. Zábav se účastnila jen pak, poručil-li jsem jí to; ale v tom případě poslouchala lépe než každé hodiny. Avšak ta representace…! „Sternenhošíčku,“ řekl mně Willy, „ty napodobíš knížete Stavrogina, který, aby budil furore[^3], pojal za ženu slabomyslnou a hrbatou, jak jsem se dočet v jednom blbém románě od Dostojevského.“
 
-„Ochlastíčku,“ pravil mně korunní princ, „nevzal sis za ženu ten dřevěný ženský automat, tu – jak se jmenuje – je m’en fiche,[4](./resources/undefined) z Hoffmannových povídek?“ Ale jeden známý básník, kterého Willy přijal kdysi v audienci a vzápětí vyexpedoval ven kopanci do řitě, pravil mi nadšeně: „Lidé zaměňují příliš často spánek a bdění, božské odpočívání a lenost, pomalu se ploužícího tygra a prase. Ona spí, spí, spí! A probuzení bude strašné, zvláště pro vás, pane kníže.“
+„Ochlastíčku,“ pravil mně korunní princ, „nevzal sis za ženu ten dřevěný ženský automat, tu – jak se jmenuje – je m’en fiche,[^4] z Hoffmannových povídek?“ Ale jeden známý básník, kterého Willy přijal kdysi v audienci a vzápětí vyexpedoval ven kopanci do řitě, pravil mi nadšeně: „Lidé zaměňují příliš často spánek a bdění, božské odpočívání a lenost, pomalu se ploužícího tygra a prase. Ona spí, spí, spí! A probuzení bude strašné, zvláště pro vás, pane kníže.“
 
 A měl pravdu, básnický rošťák.
 
@@ -221,7 +221,7 @@ Nastal onen den; právě deset let mi bylo. Několik dnů dříve, vsadivši se 
 
 Byl z toho velký skandál. Otec dostal na velitelství strašnou důt­ku – a jelikož nemlčel – pensi. Ale to jsem se dověděla teprve o osm let později.
 
-Misera mens humana![5](./resources/undefined) Vrátiv se od plukovníka, z čista jasna mne přivázal na lavici a krutě zmrskal. To by samo o sobě nebylo bývalo nic – ale strašné bylo, to že řiče, mluvil ke mně teď náhle stejně blbě jako všichni ti ostatní mravní lidé, které mně vždy vyličoval jako hmyz, jenž je tady jen k tomu, aby byl rozšlápnut…; to, že můj ideál se jedním rázem změnil v nejprašivějšího plaza… Chápeš?
+Misera mens humana![^5] Vrátiv se od plukovníka, z čista jasna mne přivázal na lavici a krutě zmrskal. To by samo o sobě nebylo bývalo nic – ale strašné bylo, to že řiče, mluvil ke mně teď náhle stejně blbě jako všichni ti ostatní mravní lidé, které mně vždy vyličoval jako hmyz, jenž je tady jen k tomu, aby byl rozšlápnut…; to, že můj ideál se jedním rázem změnil v nejprašivějšího plaza… Chápeš?
 
 A přece to, co jsem vyvedla, nebylo o nic horší, než četné mé dřívější kousky, které vítával s radostí, ač z nich míval ukrutné nepříjemnosti. A teď najednou – – padl! Zpronevěřil se sobě. Slabý člověk… Rozčilen byl nanejvýš; snad i sadismus v tom vězel; tento byla bych mu víc než odpustila; ale za žádných okolností nesmí žádné rozčilení ovládat činy Muže. Ba, Muž nesmí být vůbec nikdy rozčilen; tebe, hochu, nikdy jsem neviděla rozčileného. Kdyby Napoleon byl jen jednu minutu upadl v rozčilení, ve skutečné, nebyl by se dočkal ani Toulonu. Viděla jsem v otci víc než Napoleona; a teď, silou kontrastu, vidím největší hovado na světě…
 
@@ -323,7 +323,7 @@ Slastí řvouc, objala jej nohama. Pokračoval:
 
 „Dobře. Tedy se vytrhnu a pojdu.“
 
-„Zvítězíš nebo padneš. Znám Tě… – Tvé zacházení s ním je to nejhnusnější, co znám; proto tě ovládá hnus ze sebe. Nejnižší ze všeho je nenávist a hnus: co nenávidím a hnusím si, toho jsem nejhroznějším otrokem. Nenávidící canaille[6](./resources/undefined) měla by být – Mou milenkou…? Nestane-li se to, devatenáctého se uvidíme naposled!“
+„Zvítězíš nebo padneš. Znám Tě… – Tvé zacházení s ním je to nejhnusnější, co znám; proto tě ovládá hnus ze sebe. Nejnižší ze všeho je nenávist a hnus: co nenávidím a hnusím si, toho jsem nejhroznějším otrokem. Nenávidící canaille[^6] měla by být – Mou milenkou…? Nestane-li se to, devatenáctého se uvidíme naposled!“
 
 „Buď Vůle Tvá!“
 
@@ -341,7 +341,7 @@ A teď vbodl strašné své oči přímo do očí mých. Zatřásl jsem se. Ale
 
 „Snad pan Hnus? Ten aby se toho odvážil? haha! Nemáš ani potuchy, jaká je to baba! Zajíc je lvem proti němu, prašivému psu –“
 
-Dostala facku, dosti vydatnou. „Tak začínáš plnit svůj slib? Vůči takovému ubožáku je pro každého, kdo není prašivým psem, příkazem velkomyslnost. Nevíš, že prvním pravidlem obstojnějšího člověka je parcere subjectis et debellare superbos[7](./resources/undefined)? – A pamatuj si: i nejpsovštější pes se vztekne.“
+Dostala facku, dosti vydatnou. „Tak začínáš plnit svůj slib? Vůči takovému ubožáku je pro každého, kdo není prašivým psem, příkazem velkomyslnost. Nevíš, že prvním pravidlem obstojnějšího člověka je parcere subjectis et debellare superbos[^7]? – A pamatuj si: i nejpsovštější pes se vztekne.“
 
 „Ale on je horší než každý pes, – promiň,“ zasmála se, chráníc si tvář. „Budu mu nyní říkat jen ‚pantere, můj nejdražší pantere!‘ Ale teď se i mně zdálo, že se to kamení tam nějak pohnulo –“
 
@@ -375,16 +375,16 @@ Míra nepravostí tvých, cizoložnice, skvrno země, je naplněna. Ten „praš
 
 * * *
 
-[2](./resources/undefined) Zdvořilost. Pozn. red.
+[^2]: Zdvořilost. Pozn. red.
 
-[3](./resources/undefined) Zuřivost. Pozn. red.
+[^3]: Zuřivost. Pozn. red.
 
-[4](./resources/undefined) Je mi to jedno, na tom nezáleží. Pozn. red.
+[^4]: Je mi to jedno, na tom nezáleží. Pozn. red.
 
-[5](./resources/undefined) Ubohá lidská mysl! Pozn. red.
+[^5]: Ubohá lidská mysl! Pozn. red.
 
-[6](./resources/undefined) Ničemnice. Pozn. red.
+[^6]: Ničemnice. Pozn. red.
 
-[7](./resources/undefined) Ušetřit podané a podmanit si hrdé. Pozn. red.
+[^7]: Ušetřit podané a podmanit si hrdé. Pozn. red.
 
 </section>

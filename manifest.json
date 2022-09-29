@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "klima-utrpeni-knizete-sternenhocha-85a2627",
-  "revision": "85a2627",
+  "identifier": "klima-utrpeni-knizete-sternenhocha-2e16fb1",
+  "revision": "2e16fb1",
   "readingOrder": [
     "promo.html",
     "utrpeni_knizete_sternenhocha_005.html",
@@ -19,8 +19,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 21 2022 14:32:38 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658413958883
+    "date": "Thu Sep 29 2022 21:37:15 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664487435517
   },
   "documents": [
     {
@@ -39,7 +39,7 @@
       "title": "Předmluva",
       "file": "utrpeni_knizete_sternenhocha_005.html",
       "words": 271,
-      "chars": 1708,
+      "chars": 1709,
       "ideas": 5,
       "role": "chapter",
       "order": 1,
@@ -59,7 +59,7 @@
       "title": "I.",
       "file": "utrpeni_knizete_sternenhocha_006.html",
       "words": 10560,
-      "chars": 61593,
+      "chars": 61601,
       "ideas": 185,
       "role": "chapter",
       "order": 2,
@@ -79,7 +79,7 @@
       "title": "II.",
       "file": "utrpeni_knizete_sternenhocha_007.html",
       "words": 30448,
-      "chars": 176237,
+      "chars": 176241,
       "ideas": 757,
       "role": "chapter",
       "order": 3,
@@ -99,7 +99,7 @@
       "title": "III.",
       "file": "utrpeni_knizete_sternenhocha_008.html",
       "words": 2490,
-      "chars": 14425,
+      "chars": 14424,
       "ideas": 78,
       "role": "chapter",
       "order": 4,
@@ -139,12 +139,12 @@
   "totals": {
     "all": {
       "words": 43901,
-      "chars": 254865,
+      "chars": 254877,
       "ideas": 1045
     },
     "chapters": {
       "words": 43769,
-      "chars": 253963,
+      "chars": 253975,
       "ideas": 1025
     }
   }
