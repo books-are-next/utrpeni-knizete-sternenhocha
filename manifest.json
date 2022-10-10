@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "klima-utrpeni-knizete-sternenhocha-b08c896",
-  "revision": "b08c896",
+  "identifier": "klima-utrpeni-knizete-sternenhocha-0356837",
+  "revision": "0356837",
   "readingOrder": [
     "promo.html",
     "utrpeni_knizete_sternenhocha_005.html",
@@ -19,8 +19,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 14:08:23 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151703897
+    "date": "Mon Oct 10 2022 16:00:56 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417656152
   },
   "documents": [
     {
@@ -119,7 +119,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 122,
-      "chars": 849,
+      "chars": 850,
       "ideas": 13,
       "role": "about",
       "order": null,
@@ -139,7 +139,7 @@
   "totals": {
     "all": {
       "words": 43898,
-      "chars": 254877,
+      "chars": 254878,
       "ideas": 1042
     },
     "chapters": {
